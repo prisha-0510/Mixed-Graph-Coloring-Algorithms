@@ -1,0 +1,143 @@
+Starting graph processing...
+  - Execution time: 30.43 seconds
+  - Colors required: 9
+  - Execution time: 619.20 seconds
+  - Colors required: 54
+  - Execution time: 119.04 seconds
+  - Colors required: 25
+  - Execution time: 45.69 seconds
+  - Colors required: 65
+  - Execution time: 236.99 seconds
+  - Colors required: 31
+  - Execution time: 900.09 seconds
+  - Colors required: 31
+  - Execution time: 64.83 seconds
+  - Colors required: 15
+  - Execution time: 1018.36 seconds
+  - Colors required: 31
+  - Execution time: 54.21 seconds
+  - Colors required: 31
+  - Execution time: 0.17 seconds
+  - Colors required: 5
+  - Execution time: 4.53 seconds
+  - Colors required: 7
+  - Execution time: 8.24 seconds
+  - Colors required: 49
+  - Execution time: 256.88 seconds
+  - Colors required: 145
+  - Execution time: 28.09 seconds
+  - Colors required: 11
+  - Execution time: 25.94 seconds
+  - Colors required: 143
+  - Execution time: 482.71 seconds
+  - Colors required: 97
+  - Execution time: 70.46 seconds
+  - Colors required: 13
+  - Execution time: 17.83 seconds
+  - Colors required: 31
+  - Execution time: 18.54 seconds
+  - Colors required: 31
+  - Execution time: 4.44 seconds
+  - Colors required: 82
+  - Execution time: 73.40 seconds
+  - Colors required: 13
+  - Execution time: 0.05 seconds
+  - Colors required: 6
+  - Execution time: 0.02 seconds
+  - Colors required: 5
+  - Execution time: 52.45 seconds
+  - Colors required: 20
+  - Execution time: 6.53 seconds
+  - Colors required: 49
+  - Execution time: 156.62 seconds
+  - Colors required: 6
+  - Execution time: 610.77 seconds
+  - Colors required: 22
+  - Execution time: 16.26 seconds
+  - Colors required: 31
+  - Execution time: 334.55 seconds
+  - Colors required: 23
+  - Execution time: 0.43 seconds
+  - Colors required: 7
+  - Execution time: 1.30 seconds
+  - Colors required: 8
+  - Execution time: 17.65 seconds
+  - Colors required: 31
+  - Execution time: 333.67 seconds
+  - Colors required: 6
+  - Execution time: 70.49 seconds
+  - Colors required: 18
+  - Execution time: 0.01 seconds
+  - Colors required: 4
+  - Execution time: 12.85 seconds
+  - Colors required: 102
+  - Execution time: 42.23 seconds
+  - Colors required: 21
+  - Execution time: 156.63 seconds
+  - Colors required: 8
+  - Execution time: 15.29 seconds
+  - Colors required: 10
+  - Execution time: 16.51 seconds
+  - Colors required: 31
+  - Execution time: 19.28 seconds
+  - Colors required: 7
+  - Execution time: 42.85 seconds
+  - Colors required: 13
+  - Execution time: 17.93 seconds
+  - Colors required: 31
+  - Execution time: 217.98 seconds
+  - Colors required: 8
+  - Execution time: 1.23 seconds
+  - Colors required: 9
+  - Execution time: 13.51 seconds
+  - Colors required: 11
+  - Execution time: 116.88 seconds
+  - Colors required: 27
+  - Execution time: 13.94 seconds
+  - Colors required: 11
+  - Execution time: 190.08 seconds
+  - Colors required: 20
+  - Execution time: 52.65 seconds
+  - Colors required: 14
+  - Execution time: 28.17 seconds
+  - Colors required: 12
+  - Execution time: 35.76 seconds
+  - Colors required: 10
+  - Execution time: 37.93 seconds
+  - Colors required: 43
+  - Execution time: 106.82 seconds
+  - Colors required: 20
+  - Execution time: 37.82 seconds
+  - Colors required: 12
+  - Execution time: 221.85 seconds
+  - Colors required: 26
+  - Execution time: 147.58 seconds
+  - Colors required: 33
+  - Execution time: 0.93 seconds
+  - Colors required: 47
+  - Execution time: 21.75 seconds
+  - Colors required: 9
+  - Execution time: 146.70 seconds
+  - Colors required: 252
+  - Execution time: 11.62 seconds
+  - Colors required: 10
+  - Execution time: 114.12 seconds
+  - Colors required: 27
+  - Execution time: 124.33 seconds
+  - Colors required: 32
+  - Execution time: 44.82 seconds
+  - Colors required: 34
+  - Execution time: 114.65 seconds
+  - Colors required: 28
+  - Execution time: 208.58 seconds
+  - Colors required: 114
+  - Execution time: 332.08 seconds
+  - Colors required: 55
+  - Execution time: 80.44 seconds
+  - Colors required: 19
+  - Execution time: 135.00 seconds
+  - Colors required: 33
+  - Execution time: 3.68 seconds
+  - Colors required: 76
+  - Execution time: 181.53 seconds
+  - Colors required: 16

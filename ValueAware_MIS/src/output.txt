@@ -1,0 +1,1477 @@
+VALUE-AWARE MIS GENERATION PROCESS
+==================================================
+
+Process started at: 2025-04-28 20:26:58
+
+Loading graphs from graphs.pickle...
+Loaded 1000 graphs
+
+Graph 1/1000
+  Original size: 274 nodes, 542 edges
+  Finding MIS solutions...
+  Found 32 MIS solutions in 1.33 seconds
+  Solution 1/32:
+  Original MIS size: 130 nodes
+Predicted ratio = 0.5
+Predicted value = 65
+Total actual value = 130
+  CORRECT: Original MIS size = 130, Total value = 130
+    Original nodes: 274, Reduced nodes: 172
+    Reduction ratio: 0.37
+    Reduction time: 0.01 seconds
+  Solution 2/32:
+  Original MIS size: 130 nodes
+Predicted ratio = 0.5
+Predicted value = 65
+Total actual value = 130
+  CORRECT: Original MIS size = 130, Total value = 130
+    Original nodes: 274, Reduced nodes: 162
+    Reduction ratio: 0.41
+    Reduction time: 0.01 seconds
+  Solution 3/32:
+  Original MIS size: 130 nodes
+Predicted ratio = 0.5
+Predicted value = 65
+Total actual value = 130
+  CORRECT: Original MIS size = 130, Total value = 130
+    Original nodes: 274, Reduced nodes: 160
+    Reduction ratio: 0.42
+    Reduction time: 0.01 seconds
+  Solution 4/32:
+  Original MIS size: 130 nodes
+Predicted ratio = 0.5
+Predicted value = 65
+Total actual value = 130
+  CORRECT: Original MIS size = 130, Total value = 130
+    Original nodes: 274, Reduced nodes: 156
+    Reduction ratio: 0.43
+    Reduction time: 0.01 seconds
+  Solution 5/32:
+  Original MIS size: 130 nodes
+Predicted ratio = 0.5
+Predicted value = 65
+Total actual value = 130
+  CORRECT: Original MIS size = 130, Total value = 130
+    Original nodes: 274, Reduced nodes: 164
+    Reduction ratio: 0.40
+    Reduction time: 0.01 seconds
+  Solution 6/32:
+  Original MIS size: 130 nodes
+Predicted ratio = 0.5
+Predicted value = 65
+Total actual value = 130
+  CORRECT: Original MIS size = 130, Total value = 130
+    Original nodes: 274, Reduced nodes: 159
+    Reduction ratio: 0.42
+    Reduction time: 0.01 seconds
+  Solution 7/32:
+  Original MIS size: 130 nodes
+Predicted ratio = 0.5
+Predicted value = 65
+Total actual value = 130
+  CORRECT: Original MIS size = 130, Total value = 130
+    Original nodes: 274, Reduced nodes: 158
+    Reduction ratio: 0.42
+    Reduction time: 0.01 seconds
+  Solution 8/32:
+  Original MIS size: 130 nodes
+Predicted ratio = 0.5
+Predicted value = 65
+Total actual value = 130
+  CORRECT: Original MIS size = 130, Total value = 130
+    Original nodes: 274, Reduced nodes: 165
+    Reduction ratio: 0.40
+    Reduction time: 0.01 seconds
+  Solution 9/32:
+  Original MIS size: 130 nodes
+Predicted ratio = 0.5
+Predicted value = 65
+Total actual value = 130
+  CORRECT: Original MIS size = 130, Total value = 130
+    Original nodes: 274, Reduced nodes: 150
+    Reduction ratio: 0.45
+    Reduction time: 0.01 seconds
+  Solution 10/32:
+  Original MIS size: 130 nodes
+Predicted ratio = 0.5
+Predicted value = 65
+Total actual value = 130
+  CORRECT: Original MIS size = 130, Total value = 130
+    Original nodes: 274, Reduced nodes: 161
+    Reduction ratio: 0.41
+    Reduction time: 0.01 seconds
+  Solution 11/32:
+  Original MIS size: 130 nodes
+Predicted ratio = 0.5
+Predicted value = 65
+Total actual value = 130
+  CORRECT: Original MIS size = 130, Total value = 130
+    Original nodes: 274, Reduced nodes: 158
+    Reduction ratio: 0.42
+    Reduction time: 0.01 seconds
+  Solution 12/32:
+  Original MIS size: 130 nodes
+Predicted ratio = 0.5
+Predicted value = 65
+Total actual value = 130
+  CORRECT: Original MIS size = 130, Total value = 130
+    Original nodes: 274, Reduced nodes: 165
+    Reduction ratio: 0.40
+    Reduction time: 0.01 seconds
+  Solution 13/32:
+  Original MIS size: 130 nodes
+Predicted ratio = 0.5
+Predicted value = 65
+Total actual value = 130
+  CORRECT: Original MIS size = 130, Total value = 130
+    Original nodes: 274, Reduced nodes: 156
+    Reduction ratio: 0.43
+    Reduction time: 0.01 seconds
+  Solution 14/32:
+  Original MIS size: 130 nodes
+Predicted ratio = 0.5
+Predicted value = 65
+Total actual value = 130
+  CORRECT: Original MIS size = 130, Total value = 130
+    Original nodes: 274, Reduced nodes: 157
+    Reduction ratio: 0.43
+    Reduction time: 0.01 seconds
+  Solution 15/32:
+  Original MIS size: 130 nodes
+Predicted ratio = 0.5
+Predicted value = 65
+Total actual value = 130
+  CORRECT: Original MIS size = 130, Total value = 130
+    Original nodes: 274, Reduced nodes: 143
+    Reduction ratio: 0.48
+    Reduction time: 0.01 seconds
+  Solution 16/32:
+  Original MIS size: 130 nodes
+Predicted ratio = 0.5
+Predicted value = 65
+Total actual value = 130
+  CORRECT: Original MIS size = 130, Total value = 130
+    Original nodes: 274, Reduced nodes: 166
+    Reduction ratio: 0.39
+    Reduction time: 0.01 seconds
+  Solution 17/32:
+  Original MIS size: 130 nodes
+Predicted ratio = 0.5
+Predicted value = 65
+Total actual value = 130
+  CORRECT: Original MIS size = 130, Total value = 130
+    Original nodes: 274, Reduced nodes: 160
+    Reduction ratio: 0.42
+    Reduction time: 0.01 seconds
+  Solution 18/32:
+  Original MIS size: 130 nodes
+Predicted ratio = 0.5
+Predicted value = 65
+Total actual value = 130
+  CORRECT: Original MIS size = 130, Total value = 130
+    Original nodes: 274, Reduced nodes: 158
+    Reduction ratio: 0.42
+    Reduction time: 0.01 seconds
+  Solution 19/32:
+  Original MIS size: 130 nodes
+Predicted ratio = 0.5
+Predicted value = 65
+Total actual value = 130
+  CORRECT: Original MIS size = 130, Total value = 130
+    Original nodes: 274, Reduced nodes: 158
+    Reduction ratio: 0.42
+    Reduction time: 0.01 seconds
+  Solution 20/32:
+  Original MIS size: 130 nodes
+Predicted ratio = 0.5
+Predicted value = 65
+Total actual value = 130
+  CORRECT: Original MIS size = 130, Total value = 130
+    Original nodes: 274, Reduced nodes: 157
+    Reduction ratio: 0.43
+    Reduction time: 0.01 seconds
+  Solution 21/32:
+  Original MIS size: 130 nodes
+Predicted ratio = 0.5
+Predicted value = 65
+Total actual value = 130
+  CORRECT: Original MIS size = 130, Total value = 130
+    Original nodes: 274, Reduced nodes: 168
+    Reduction ratio: 0.39
+    Reduction time: 0.01 seconds
+  Solution 22/32:
+  Original MIS size: 130 nodes
+Predicted ratio = 0.5
+Predicted value = 65
+Total actual value = 130
+  CORRECT: Original MIS size = 130, Total value = 130
+    Original nodes: 274, Reduced nodes: 159
+    Reduction ratio: 0.42
+    Reduction time: 0.01 seconds
+  Solution 23/32:
+  Original MIS size: 130 nodes
+Predicted ratio = 0.5
+Predicted value = 65
+Total actual value = 130
+  CORRECT: Original MIS size = 130, Total value = 130
+    Original nodes: 274, Reduced nodes: 162
+    Reduction ratio: 0.41
+    Reduction time: 0.01 seconds
+  Solution 24/32:
+  Original MIS size: 130 nodes
+Predicted ratio = 0.5
+Predicted value = 65
+Total actual value = 130
+  CORRECT: Original MIS size = 130, Total value = 130
+    Original nodes: 274, Reduced nodes: 160
+    Reduction ratio: 0.42
+    Reduction time: 0.01 seconds
+  Solution 25/32:
+  Original MIS size: 130 nodes
+Predicted ratio = 0.5
+Predicted value = 65
+Total actual value = 130
+  CORRECT: Original MIS size = 130, Total value = 130
+    Original nodes: 274, Reduced nodes: 158
+    Reduction ratio: 0.42
+    Reduction time: 0.01 seconds
+  Solution 26/32:
+  Original MIS size: 130 nodes
+Predicted ratio = 0.5
+Predicted value = 65
+Total actual value = 130
+  CORRECT: Original MIS size = 130, Total value = 130
+    Original nodes: 274, Reduced nodes: 164
+    Reduction ratio: 0.40
+    Reduction time: 0.01 seconds
+  Solution 27/32:
+  Original MIS size: 130 nodes
+Predicted ratio = 0.5
+Predicted value = 65
+Total actual value = 130
+  CORRECT: Original MIS size = 130, Total value = 130
+    Original nodes: 274, Reduced nodes: 171
+    Reduction ratio: 0.38
+    Reduction time: 0.01 seconds
+  Solution 28/32:
+  Original MIS size: 130 nodes
+Predicted ratio = 0.5
+Predicted value = 65
+Total actual value = 130
+  CORRECT: Original MIS size = 130, Total value = 130
+    Original nodes: 274, Reduced nodes: 152
+    Reduction ratio: 0.45
+    Reduction time: 0.01 seconds
+  Solution 29/32:
+  Original MIS size: 130 nodes
+Predicted ratio = 0.5
+Predicted value = 65
+Total actual value = 130
+  CORRECT: Original MIS size = 130, Total value = 130
+    Original nodes: 274, Reduced nodes: 168
+    Reduction ratio: 0.39
+    Reduction time: 0.01 seconds
+  Solution 30/32:
+  Original MIS size: 130 nodes
+Predicted ratio = 0.5
+Predicted value = 65
+Total actual value = 130
+  CORRECT: Original MIS size = 130, Total value = 130
+    Original nodes: 274, Reduced nodes: 171
+    Reduction ratio: 0.38
+    Reduction time: 0.01 seconds
+  Solution 31/32:
+  Original MIS size: 130 nodes
+Predicted ratio = 0.5
+Predicted value = 65
+Total actual value = 130
+  CORRECT: Original MIS size = 130, Total value = 130
+    Original nodes: 274, Reduced nodes: 161
+    Reduction ratio: 0.41
+    Reduction time: 0.01 seconds
+  Solution 32/32:
+  Original MIS size: 130 nodes
+Predicted ratio = 0.5
+Predicted value = 65
+Total actual value = 130
+  CORRECT: Original MIS size = 130, Total value = 130
+    Original nodes: 274, Reduced nodes: 164
+    Reduction ratio: 0.40
+    Reduction time: 0.01 seconds
+
+Graph 2/1000
+  Original size: 273 nodes, 460 edges
+  Finding MIS solutions...
+  Found 32 MIS solutions in 0.61 seconds
+  Solution 1/32:
+  Original MIS size: 140 nodes
+Predicted ratio = 0.3357142857142857
+Predicted value = 47
+Total actual value = 140
+  CORRECT: Original MIS size = 140, Total value = 140
+    Original nodes: 273, Reduced nodes: 122
+    Reduction ratio: 0.55
+    Reduction time: 0.01 seconds
+  Solution 2/32:
+  Original MIS size: 140 nodes
+Predicted ratio = 0.3357142857142857
+Predicted value = 47
+Total actual value = 140
+  CORRECT: Original MIS size = 140, Total value = 140
+    Original nodes: 273, Reduced nodes: 127
+    Reduction ratio: 0.53
+    Reduction time: 0.01 seconds
+  Solution 3/32:
+  Original MIS size: 140 nodes
+Predicted ratio = 0.3357142857142857
+Predicted value = 47
+Total actual value = 140
+  CORRECT: Original MIS size = 140, Total value = 140
+    Original nodes: 273, Reduced nodes: 122
+    Reduction ratio: 0.55
+    Reduction time: 0.01 seconds
+  Solution 4/32:
+  Original MIS size: 140 nodes
+Predicted ratio = 0.3357142857142857
+Predicted value = 47
+Total actual value = 140
+  CORRECT: Original MIS size = 140, Total value = 140
+    Original nodes: 273, Reduced nodes: 131
+    Reduction ratio: 0.52
+    Reduction time: 0.01 seconds
+  Solution 5/32:
+  Original MIS size: 140 nodes
+Predicted ratio = 0.3357142857142857
+Predicted value = 47
+Total actual value = 140
+  CORRECT: Original MIS size = 140, Total value = 140
+    Original nodes: 273, Reduced nodes: 130
+    Reduction ratio: 0.52
+    Reduction time: 0.01 seconds
+  Solution 6/32:
+  Original MIS size: 140 nodes
+Predicted ratio = 0.3357142857142857
+Predicted value = 47
+Total actual value = 140
+  CORRECT: Original MIS size = 140, Total value = 140
+    Original nodes: 273, Reduced nodes: 128
+    Reduction ratio: 0.53
+    Reduction time: 0.01 seconds
+  Solution 7/32:
+  Original MIS size: 140 nodes
+Predicted ratio = 0.3357142857142857
+Predicted value = 47
+Total actual value = 140
+  CORRECT: Original MIS size = 140, Total value = 140
+    Original nodes: 273, Reduced nodes: 130
+    Reduction ratio: 0.52
+    Reduction time: 0.01 seconds
+  Solution 8/32:
+  Original MIS size: 140 nodes
+Predicted ratio = 0.3357142857142857
+Predicted value = 47
+Total actual value = 140
+  CORRECT: Original MIS size = 140, Total value = 140
+    Original nodes: 273, Reduced nodes: 119
+    Reduction ratio: 0.56
+    Reduction time: 0.01 seconds
+  Solution 9/32:
+  Original MIS size: 140 nodes
+Predicted ratio = 0.3357142857142857
+Predicted value = 47
+Total actual value = 140
+  CORRECT: Original MIS size = 140, Total value = 140
+    Original nodes: 273, Reduced nodes: 128
+    Reduction ratio: 0.53
+    Reduction time: 0.01 seconds
+  Solution 10/32:
+  Original MIS size: 140 nodes
+Predicted ratio = 0.3357142857142857
+Predicted value = 47
+Total actual value = 140
+  CORRECT: Original MIS size = 140, Total value = 140
+    Original nodes: 273, Reduced nodes: 126
+    Reduction ratio: 0.54
+    Reduction time: 0.01 seconds
+  Solution 11/32:
+  Original MIS size: 140 nodes
+Predicted ratio = 0.3357142857142857
+Predicted value = 47
+Total actual value = 140
+  CORRECT: Original MIS size = 140, Total value = 140
+    Original nodes: 273, Reduced nodes: 130
+    Reduction ratio: 0.52
+    Reduction time: 0.01 seconds
+  Solution 12/32:
+  Original MIS size: 140 nodes
+Predicted ratio = 0.3357142857142857
+Predicted value = 47
+Total actual value = 140
+  CORRECT: Original MIS size = 140, Total value = 140
+    Original nodes: 273, Reduced nodes: 124
+    Reduction ratio: 0.55
+    Reduction time: 0.01 seconds
+  Solution 13/32:
+  Original MIS size: 140 nodes
+Predicted ratio = 0.3357142857142857
+Predicted value = 47
+Total actual value = 140
+  CORRECT: Original MIS size = 140, Total value = 140
+    Original nodes: 273, Reduced nodes: 122
+    Reduction ratio: 0.55
+    Reduction time: 0.01 seconds
+  Solution 14/32:
+  Original MIS size: 140 nodes
+Predicted ratio = 0.3357142857142857
+Predicted value = 47
+Total actual value = 140
+  CORRECT: Original MIS size = 140, Total value = 140
+    Original nodes: 273, Reduced nodes: 130
+    Reduction ratio: 0.52
+    Reduction time: 0.01 seconds
+  Solution 15/32:
+  Original MIS size: 140 nodes
+Predicted ratio = 0.3357142857142857
+Predicted value = 47
+Total actual value = 140
+  CORRECT: Original MIS size = 140, Total value = 140
+    Original nodes: 273, Reduced nodes: 125
+    Reduction ratio: 0.54
+    Reduction time: 0.01 seconds
+  Solution 16/32:
+  Original MIS size: 140 nodes
+Predicted ratio = 0.3357142857142857
+Predicted value = 47
+Total actual value = 140
+  CORRECT: Original MIS size = 140, Total value = 140
+    Original nodes: 273, Reduced nodes: 130
+    Reduction ratio: 0.52
+    Reduction time: 0.01 seconds
+  Solution 17/32:
+  Original MIS size: 140 nodes
+Predicted ratio = 0.3357142857142857
+Predicted value = 47
+Total actual value = 140
+  CORRECT: Original MIS size = 140, Total value = 140
+    Original nodes: 273, Reduced nodes: 119
+    Reduction ratio: 0.56
+    Reduction time: 0.01 seconds
+  Solution 18/32:
+  Original MIS size: 140 nodes
+Predicted ratio = 0.3357142857142857
+Predicted value = 47
+Total actual value = 140
+  CORRECT: Original MIS size = 140, Total value = 140
+    Original nodes: 273, Reduced nodes: 121
+    Reduction ratio: 0.56
+    Reduction time: 0.01 seconds
+  Solution 19/32:
+  Original MIS size: 140 nodes
+Predicted ratio = 0.3357142857142857
+Predicted value = 47
+Total actual value = 140
+  CORRECT: Original MIS size = 140, Total value = 140
+    Original nodes: 273, Reduced nodes: 126
+    Reduction ratio: 0.54
+    Reduction time: 0.01 seconds
+  Solution 20/32:
+  Original MIS size: 140 nodes
+Predicted ratio = 0.3357142857142857
+Predicted value = 47
+Total actual value = 140
+  CORRECT: Original MIS size = 140, Total value = 140
+    Original nodes: 273, Reduced nodes: 122
+    Reduction ratio: 0.55
+    Reduction time: 0.01 seconds
+  Solution 21/32:
+  Original MIS size: 140 nodes
+Predicted ratio = 0.3357142857142857
+Predicted value = 47
+Total actual value = 140
+  CORRECT: Original MIS size = 140, Total value = 140
+    Original nodes: 273, Reduced nodes: 130
+    Reduction ratio: 0.52
+    Reduction time: 0.01 seconds
+  Solution 22/32:
+  Original MIS size: 140 nodes
+Predicted ratio = 0.3357142857142857
+Predicted value = 47
+Total actual value = 140
+  CORRECT: Original MIS size = 140, Total value = 140
+    Original nodes: 273, Reduced nodes: 130
+    Reduction ratio: 0.52
+    Reduction time: 0.01 seconds
+  Solution 23/32:
+  Original MIS size: 140 nodes
+Predicted ratio = 0.3357142857142857
+Predicted value = 47
+Total actual value = 140
+  CORRECT: Original MIS size = 140, Total value = 140
+    Original nodes: 273, Reduced nodes: 128
+    Reduction ratio: 0.53
+    Reduction time: 0.01 seconds
+  Solution 24/32:
+  Original MIS size: 140 nodes
+Predicted ratio = 0.3357142857142857
+Predicted value = 47
+Total actual value = 140
+  CORRECT: Original MIS size = 140, Total value = 140
+    Original nodes: 273, Reduced nodes: 122
+    Reduction ratio: 0.55
+    Reduction time: 0.01 seconds
+  Solution 25/32:
+  Original MIS size: 140 nodes
+Predicted ratio = 0.3357142857142857
+Predicted value = 47
+Total actual value = 140
+  CORRECT: Original MIS size = 140, Total value = 140
+    Original nodes: 273, Reduced nodes: 126
+    Reduction ratio: 0.54
+    Reduction time: 0.01 seconds
+  Solution 26/32:
+  Original MIS size: 140 nodes
+Predicted ratio = 0.3357142857142857
+Predicted value = 47
+Total actual value = 140
+  CORRECT: Original MIS size = 140, Total value = 140
+    Original nodes: 273, Reduced nodes: 130
+    Reduction ratio: 0.52
+    Reduction time: 0.01 seconds
+  Solution 27/32:
+  Original MIS size: 140 nodes
+Predicted ratio = 0.3357142857142857
+Predicted value = 47
+Total actual value = 140
+  CORRECT: Original MIS size = 140, Total value = 140
+    Original nodes: 273, Reduced nodes: 128
+    Reduction ratio: 0.53
+    Reduction time: 0.01 seconds
+  Solution 28/32:
+  Original MIS size: 140 nodes
+Predicted ratio = 0.3357142857142857
+Predicted value = 47
+Total actual value = 140
+  CORRECT: Original MIS size = 140, Total value = 140
+    Original nodes: 273, Reduced nodes: 124
+    Reduction ratio: 0.55
+    Reduction time: 0.01 seconds
+  Solution 29/32:
+  Original MIS size: 140 nodes
+Predicted ratio = 0.3357142857142857
+Predicted value = 47
+Total actual value = 140
+  CORRECT: Original MIS size = 140, Total value = 140
+    Original nodes: 273, Reduced nodes: 124
+    Reduction ratio: 0.55
+    Reduction time: 0.01 seconds
+  Solution 30/32:
+  Original MIS size: 140 nodes
+Predicted ratio = 0.3357142857142857
+Predicted value = 47
+Total actual value = 140
+  CORRECT: Original MIS size = 140, Total value = 140
+    Original nodes: 273, Reduced nodes: 126
+    Reduction ratio: 0.54
+    Reduction time: 0.01 seconds
+  Solution 31/32:
+  Original MIS size: 140 nodes
+Predicted ratio = 0.3357142857142857
+Predicted value = 47
+Total actual value = 140
+  CORRECT: Original MIS size = 140, Total value = 140
+    Original nodes: 273, Reduced nodes: 126
+    Reduction ratio: 0.54
+    Reduction time: 0.01 seconds
+  Solution 32/32:
+  Original MIS size: 140 nodes
+Predicted ratio = 0.3357142857142857
+Predicted value = 47
+Total actual value = 140
+  CORRECT: Original MIS size = 140, Total value = 140
+    Original nodes: 273, Reduced nodes: 126
+    Reduction ratio: 0.54
+    Reduction time: 0.01 seconds
+
+Graph 3/1000
+  Original size: 220 nodes, 407 edges
+  Finding MIS solutions...
+  Found 32 MIS solutions in 0.44 seconds
+  Solution 1/32:
+  Original MIS size: 108 nodes
+Predicted ratio = 0.4166666666666667
+Predicted value = 45
+Total actual value = 108
+  CORRECT: Original MIS size = 108, Total value = 108
+    Original nodes: 220, Reduced nodes: 112
+    Reduction ratio: 0.49
+    Reduction time: 0.01 seconds
+  Solution 2/32:
+  Original MIS size: 108 nodes
+Predicted ratio = 0.4166666666666667
+Predicted value = 45
+Total actual value = 108
+  CORRECT: Original MIS size = 108, Total value = 108
+    Original nodes: 220, Reduced nodes: 117
+    Reduction ratio: 0.47
+    Reduction time: 0.01 seconds
+  Solution 3/32:
+  Original MIS size: 108 nodes
+Predicted ratio = 0.4166666666666667
+Predicted value = 45
+Total actual value = 108
+  CORRECT: Original MIS size = 108, Total value = 108
+    Original nodes: 220, Reduced nodes: 111
+    Reduction ratio: 0.50
+    Reduction time: 0.01 seconds
+  Solution 4/32:
+  Original MIS size: 108 nodes
+Predicted ratio = 0.4166666666666667
+Predicted value = 45
+Total actual value = 108
+  CORRECT: Original MIS size = 108, Total value = 108
+    Original nodes: 220, Reduced nodes: 117
+    Reduction ratio: 0.47
+    Reduction time: 0.01 seconds
+  Solution 5/32:
+  Original MIS size: 108 nodes
+Predicted ratio = 0.4166666666666667
+Predicted value = 45
+Total actual value = 108
+  CORRECT: Original MIS size = 108, Total value = 108
+    Original nodes: 220, Reduced nodes: 122
+    Reduction ratio: 0.45
+    Reduction time: 0.01 seconds
+  Solution 6/32:
+  Original MIS size: 108 nodes
+Predicted ratio = 0.4166666666666667
+Predicted value = 45
+Total actual value = 108
+  CORRECT: Original MIS size = 108, Total value = 108
+    Original nodes: 220, Reduced nodes: 127
+    Reduction ratio: 0.42
+    Reduction time: 0.01 seconds
+  Solution 7/32:
+  Original MIS size: 108 nodes
+Predicted ratio = 0.4166666666666667
+Predicted value = 45
+Total actual value = 108
+  CORRECT: Original MIS size = 108, Total value = 108
+    Original nodes: 220, Reduced nodes: 125
+    Reduction ratio: 0.43
+    Reduction time: 0.01 seconds
+  Solution 8/32:
+  Original MIS size: 108 nodes
+Predicted ratio = 0.4166666666666667
+Predicted value = 45
+Total actual value = 108
+  CORRECT: Original MIS size = 108, Total value = 108
+    Original nodes: 220, Reduced nodes: 117
+    Reduction ratio: 0.47
+    Reduction time: 0.01 seconds
+  Solution 9/32:
+  Original MIS size: 108 nodes
+Predicted ratio = 0.4166666666666667
+Predicted value = 45
+Total actual value = 108
+  CORRECT: Original MIS size = 108, Total value = 108
+    Original nodes: 220, Reduced nodes: 125
+    Reduction ratio: 0.43
+    Reduction time: 0.01 seconds
+  Solution 10/32:
+  Original MIS size: 108 nodes
+Predicted ratio = 0.4166666666666667
+Predicted value = 45
+Total actual value = 108
+  CORRECT: Original MIS size = 108, Total value = 108
+    Original nodes: 220, Reduced nodes: 124
+    Reduction ratio: 0.44
+    Reduction time: 0.01 seconds
+  Solution 11/32:
+  Original MIS size: 108 nodes
+Predicted ratio = 0.4166666666666667
+Predicted value = 45
+Total actual value = 108
+  CORRECT: Original MIS size = 108, Total value = 108
+    Original nodes: 220, Reduced nodes: 125
+    Reduction ratio: 0.43
+    Reduction time: 0.01 seconds
+  Solution 12/32:
+  Original MIS size: 108 nodes
+Predicted ratio = 0.4166666666666667
+Predicted value = 45
+Total actual value = 108
+  CORRECT: Original MIS size = 108, Total value = 108
+    Original nodes: 220, Reduced nodes: 118
+    Reduction ratio: 0.46
+    Reduction time: 0.01 seconds
+  Solution 13/32:
+  Original MIS size: 108 nodes
+Predicted ratio = 0.4166666666666667
+Predicted value = 45
+Total actual value = 108
+  CORRECT: Original MIS size = 108, Total value = 108
+    Original nodes: 220, Reduced nodes: 118
+    Reduction ratio: 0.46
+    Reduction time: 0.01 seconds
+  Solution 14/32:
+  Original MIS size: 108 nodes
+Predicted ratio = 0.4166666666666667
+Predicted value = 45
+Total actual value = 108
+  CORRECT: Original MIS size = 108, Total value = 108
+    Original nodes: 220, Reduced nodes: 123
+    Reduction ratio: 0.44
+    Reduction time: 0.01 seconds
+  Solution 15/32:
+  Original MIS size: 108 nodes
+Predicted ratio = 0.4166666666666667
+Predicted value = 45
+Total actual value = 108
+  CORRECT: Original MIS size = 108, Total value = 108
+    Original nodes: 220, Reduced nodes: 121
+    Reduction ratio: 0.45
+    Reduction time: 0.01 seconds
+  Solution 16/32:
+  Original MIS size: 108 nodes
+Predicted ratio = 0.4166666666666667
+Predicted value = 45
+Total actual value = 108
+  CORRECT: Original MIS size = 108, Total value = 108
+    Original nodes: 220, Reduced nodes: 118
+    Reduction ratio: 0.46
+    Reduction time: 0.01 seconds
+  Solution 17/32:
+  Original MIS size: 108 nodes
+Predicted ratio = 0.4166666666666667
+Predicted value = 45
+Total actual value = 108
+  CORRECT: Original MIS size = 108, Total value = 108
+    Original nodes: 220, Reduced nodes: 114
+    Reduction ratio: 0.48
+    Reduction time: 0.01 seconds
+  Solution 18/32:
+  Original MIS size: 108 nodes
+Predicted ratio = 0.4166666666666667
+Predicted value = 45
+Total actual value = 108
+  CORRECT: Original MIS size = 108, Total value = 108
+    Original nodes: 220, Reduced nodes: 126
+    Reduction ratio: 0.43
+    Reduction time: 0.01 seconds
+  Solution 19/32:
+  Original MIS size: 108 nodes
+Predicted ratio = 0.4166666666666667
+Predicted value = 45
+Total actual value = 108
+  CORRECT: Original MIS size = 108, Total value = 108
+    Original nodes: 220, Reduced nodes: 119
+    Reduction ratio: 0.46
+    Reduction time: 0.01 seconds
+  Solution 20/32:
+  Original MIS size: 108 nodes
+Predicted ratio = 0.4166666666666667
+Predicted value = 45
+Total actual value = 108
+  CORRECT: Original MIS size = 108, Total value = 108
+    Original nodes: 220, Reduced nodes: 114
+    Reduction ratio: 0.48
+    Reduction time: 0.01 seconds
+  Solution 21/32:
+  Original MIS size: 108 nodes
+Predicted ratio = 0.4166666666666667
+Predicted value = 45
+Total actual value = 108
+  CORRECT: Original MIS size = 108, Total value = 108
+    Original nodes: 220, Reduced nodes: 121
+    Reduction ratio: 0.45
+    Reduction time: 0.01 seconds
+  Solution 22/32:
+  Original MIS size: 108 nodes
+Predicted ratio = 0.4166666666666667
+Predicted value = 45
+Total actual value = 108
+  CORRECT: Original MIS size = 108, Total value = 108
+    Original nodes: 220, Reduced nodes: 121
+    Reduction ratio: 0.45
+    Reduction time: 0.01 seconds
+  Solution 23/32:
+  Original MIS size: 108 nodes
+Predicted ratio = 0.4166666666666667
+Predicted value = 45
+Total actual value = 108
+  CORRECT: Original MIS size = 108, Total value = 108
+    Original nodes: 220, Reduced nodes: 123
+    Reduction ratio: 0.44
+    Reduction time: 0.01 seconds
+  Solution 24/32:
+  Original MIS size: 108 nodes
+Predicted ratio = 0.4166666666666667
+Predicted value = 45
+Total actual value = 108
+  CORRECT: Original MIS size = 108, Total value = 108
+    Original nodes: 220, Reduced nodes: 118
+    Reduction ratio: 0.46
+    Reduction time: 0.01 seconds
+  Solution 25/32:
+  Original MIS size: 108 nodes
+Predicted ratio = 0.4166666666666667
+Predicted value = 45
+Total actual value = 108
+  CORRECT: Original MIS size = 108, Total value = 108
+    Original nodes: 220, Reduced nodes: 95
+    Reduction ratio: 0.57
+    Reduction time: 0.01 seconds
+  Solution 26/32:
+  Original MIS size: 108 nodes
+Predicted ratio = 0.4166666666666667
+Predicted value = 45
+Total actual value = 108
+  CORRECT: Original MIS size = 108, Total value = 108
+    Original nodes: 220, Reduced nodes: 120
+    Reduction ratio: 0.45
+    Reduction time: 0.01 seconds
+  Solution 27/32:
+  Original MIS size: 108 nodes
+Predicted ratio = 0.4166666666666667
+Predicted value = 45
+Total actual value = 108
+  CORRECT: Original MIS size = 108, Total value = 108
+    Original nodes: 220, Reduced nodes: 119
+    Reduction ratio: 0.46
+    Reduction time: 0.01 seconds
+  Solution 28/32:
+  Original MIS size: 108 nodes
+Predicted ratio = 0.4166666666666667
+Predicted value = 45
+Total actual value = 108
+  CORRECT: Original MIS size = 108, Total value = 108
+    Original nodes: 220, Reduced nodes: 118
+    Reduction ratio: 0.46
+    Reduction time: 0.01 seconds
+  Solution 29/32:
+  Original MIS size: 108 nodes
+Predicted ratio = 0.4166666666666667
+Predicted value = 45
+Total actual value = 108
+  CORRECT: Original MIS size = 108, Total value = 108
+    Original nodes: 220, Reduced nodes: 119
+    Reduction ratio: 0.46
+    Reduction time: 0.01 seconds
+  Solution 30/32:
+  Original MIS size: 108 nodes
+Predicted ratio = 0.4166666666666667
+Predicted value = 45
+Total actual value = 108
+  CORRECT: Original MIS size = 108, Total value = 108
+    Original nodes: 220, Reduced nodes: 119
+    Reduction ratio: 0.46
+    Reduction time: 0.01 seconds
+  Solution 31/32:
+  Original MIS size: 108 nodes
+Predicted ratio = 0.4166666666666667
+Predicted value = 45
+Total actual value = 108
+  CORRECT: Original MIS size = 108, Total value = 108
+    Original nodes: 220, Reduced nodes: 121
+    Reduction ratio: 0.45
+    Reduction time: 0.01 seconds
+  Solution 32/32:
+  Original MIS size: 108 nodes
+Predicted ratio = 0.4166666666666667
+Predicted value = 45
+Total actual value = 108
+  CORRECT: Original MIS size = 108, Total value = 108
+    Original nodes: 220, Reduced nodes: 126
+    Reduction ratio: 0.43
+    Reduction time: 0.01 seconds
+
+Graph 4/1000
+  Original size: 137 nodes, 138 edges
+  Finding MIS solutions...
+  Found 32 MIS solutions in 0.11 seconds
+  Solution 1/32:
+  Original MIS size: 88 nodes
+Predicted ratio = 0.22727272727272727
+Predicted value = 20
+Total actual value = 88
+  CORRECT: Original MIS size = 88, Total value = 88
+    Original nodes: 137, Reduced nodes: 23
+    Reduction ratio: 0.83
+    Reduction time: 0.00 seconds
+  Solution 2/32:
+  Original MIS size: 88 nodes
+Predicted ratio = 0.22727272727272727
+Predicted value = 20
+Total actual value = 88
+  CORRECT: Original MIS size = 88, Total value = 88
+    Original nodes: 137, Reduced nodes: 23
+    Reduction ratio: 0.83
+    Reduction time: 0.00 seconds
+  Solution 3/32:
+  Original MIS size: 88 nodes
+Predicted ratio = 0.22727272727272727
+Predicted value = 20
+Total actual value = 88
+  CORRECT: Original MIS size = 88, Total value = 88
+    Original nodes: 137, Reduced nodes: 23
+    Reduction ratio: 0.83
+    Reduction time: 0.00 seconds
+  Solution 4/32:
+  Original MIS size: 88 nodes
+Predicted ratio = 0.22727272727272727
+Predicted value = 20
+Total actual value = 88
+  CORRECT: Original MIS size = 88, Total value = 88
+    Original nodes: 137, Reduced nodes: 23
+    Reduction ratio: 0.83
+    Reduction time: 0.00 seconds
+  Solution 5/32:
+  Original MIS size: 88 nodes
+Predicted ratio = 0.22727272727272727
+Predicted value = 20
+Total actual value = 88
+  CORRECT: Original MIS size = 88, Total value = 88
+    Original nodes: 137, Reduced nodes: 32
+    Reduction ratio: 0.77
+    Reduction time: 0.00 seconds
+  Solution 6/32:
+  Original MIS size: 88 nodes
+Predicted ratio = 0.22727272727272727
+Predicted value = 20
+Total actual value = 88
+  CORRECT: Original MIS size = 88, Total value = 88
+    Original nodes: 137, Reduced nodes: 26
+    Reduction ratio: 0.81
+    Reduction time: 0.00 seconds
+  Solution 7/32:
+  Original MIS size: 88 nodes
+Predicted ratio = 0.22727272727272727
+Predicted value = 20
+Total actual value = 88
+  CORRECT: Original MIS size = 88, Total value = 88
+    Original nodes: 137, Reduced nodes: 26
+    Reduction ratio: 0.81
+    Reduction time: 0.00 seconds
+  Solution 8/32:
+  Original MIS size: 88 nodes
+Predicted ratio = 0.22727272727272727
+Predicted value = 20
+Total actual value = 88
+  CORRECT: Original MIS size = 88, Total value = 88
+    Original nodes: 137, Reduced nodes: 23
+    Reduction ratio: 0.83
+    Reduction time: 0.00 seconds
+  Solution 9/32:
+  Original MIS size: 88 nodes
+Predicted ratio = 0.22727272727272727
+Predicted value = 20
+Total actual value = 88
+  CORRECT: Original MIS size = 88, Total value = 88
+    Original nodes: 137, Reduced nodes: 26
+    Reduction ratio: 0.81
+    Reduction time: 0.00 seconds
+  Solution 10/32:
+  Original MIS size: 88 nodes
+Predicted ratio = 0.22727272727272727
+Predicted value = 20
+Total actual value = 88
+  CORRECT: Original MIS size = 88, Total value = 88
+    Original nodes: 137, Reduced nodes: 27
+    Reduction ratio: 0.80
+    Reduction time: 0.00 seconds
+  Solution 11/32:
+  Original MIS size: 88 nodes
+Predicted ratio = 0.22727272727272727
+Predicted value = 20
+Total actual value = 88
+  CORRECT: Original MIS size = 88, Total value = 88
+    Original nodes: 137, Reduced nodes: 30
+    Reduction ratio: 0.78
+    Reduction time: 0.00 seconds
+  Solution 12/32:
+  Original MIS size: 88 nodes
+Predicted ratio = 0.22727272727272727
+Predicted value = 20
+Total actual value = 88
+  CORRECT: Original MIS size = 88, Total value = 88
+    Original nodes: 137, Reduced nodes: 28
+    Reduction ratio: 0.80
+    Reduction time: 0.00 seconds
+  Solution 13/32:
+  Original MIS size: 88 nodes
+Predicted ratio = 0.22727272727272727
+Predicted value = 20
+Total actual value = 88
+  CORRECT: Original MIS size = 88, Total value = 88
+    Original nodes: 137, Reduced nodes: 27
+    Reduction ratio: 0.80
+    Reduction time: 0.00 seconds
+  Solution 14/32:
+  Original MIS size: 88 nodes
+Predicted ratio = 0.22727272727272727
+Predicted value = 20
+Total actual value = 88
+  CORRECT: Original MIS size = 88, Total value = 88
+    Original nodes: 137, Reduced nodes: 28
+    Reduction ratio: 0.80
+    Reduction time: 0.00 seconds
+  Solution 15/32:
+  Original MIS size: 88 nodes
+Predicted ratio = 0.22727272727272727
+Predicted value = 20
+Total actual value = 88
+  CORRECT: Original MIS size = 88, Total value = 88
+    Original nodes: 137, Reduced nodes: 27
+    Reduction ratio: 0.80
+    Reduction time: 0.00 seconds
+  Solution 16/32:
+  Original MIS size: 88 nodes
+Predicted ratio = 0.22727272727272727
+Predicted value = 20
+Total actual value = 88
+  CORRECT: Original MIS size = 88, Total value = 88
+    Original nodes: 137, Reduced nodes: 29
+    Reduction ratio: 0.79
+    Reduction time: 0.00 seconds
+  Solution 17/32:
+  Original MIS size: 88 nodes
+Predicted ratio = 0.22727272727272727
+Predicted value = 20
+Total actual value = 88
+  CORRECT: Original MIS size = 88, Total value = 88
+    Original nodes: 137, Reduced nodes: 32
+    Reduction ratio: 0.77
+    Reduction time: 0.00 seconds
+  Solution 18/32:
+  Original MIS size: 88 nodes
+Predicted ratio = 0.22727272727272727
+Predicted value = 20
+Total actual value = 88
+  CORRECT: Original MIS size = 88, Total value = 88
+    Original nodes: 137, Reduced nodes: 30
+    Reduction ratio: 0.78
+    Reduction time: 0.00 seconds
+  Solution 19/32:
+  Original MIS size: 88 nodes
+Predicted ratio = 0.22727272727272727
+Predicted value = 20
+Total actual value = 88
+  CORRECT: Original MIS size = 88, Total value = 88
+    Original nodes: 137, Reduced nodes: 30
+    Reduction ratio: 0.78
+    Reduction time: 0.00 seconds
+  Solution 20/32:
+  Original MIS size: 88 nodes
+Predicted ratio = 0.22727272727272727
+Predicted value = 20
+Total actual value = 88
+  CORRECT: Original MIS size = 88, Total value = 88
+    Original nodes: 137, Reduced nodes: 29
+    Reduction ratio: 0.79
+    Reduction time: 0.00 seconds
+  Solution 21/32:
+  Original MIS size: 88 nodes
+Predicted ratio = 0.22727272727272727
+Predicted value = 20
+Total actual value = 88
+  CORRECT: Original MIS size = 88, Total value = 88
+    Original nodes: 137, Reduced nodes: 36
+    Reduction ratio: 0.74
+    Reduction time: 0.00 seconds
+  Solution 22/32:
+  Original MIS size: 88 nodes
+Predicted ratio = 0.22727272727272727
+Predicted value = 20
+Total actual value = 88
+  CORRECT: Original MIS size = 88, Total value = 88
+    Original nodes: 137, Reduced nodes: 33
+    Reduction ratio: 0.76
+    Reduction time: 0.00 seconds
+  Solution 23/32:
+  Original MIS size: 88 nodes
+Predicted ratio = 0.22727272727272727
+Predicted value = 20
+Total actual value = 88
+  CORRECT: Original MIS size = 88, Total value = 88
+    Original nodes: 137, Reduced nodes: 32
+    Reduction ratio: 0.77
+    Reduction time: 0.00 seconds
+  Solution 24/32:
+  Original MIS size: 88 nodes
+Predicted ratio = 0.22727272727272727
+Predicted value = 20
+Total actual value = 88
+  CORRECT: Original MIS size = 88, Total value = 88
+    Original nodes: 137, Reduced nodes: 30
+    Reduction ratio: 0.78
+    Reduction time: 0.00 seconds
+  Solution 25/32:
+  Original MIS size: 88 nodes
+Predicted ratio = 0.22727272727272727
+Predicted value = 20
+Total actual value = 88
+  CORRECT: Original MIS size = 88, Total value = 88
+    Original nodes: 137, Reduced nodes: 27
+    Reduction ratio: 0.80
+    Reduction time: 0.00 seconds
+  Solution 26/32:
+  Original MIS size: 88 nodes
+Predicted ratio = 0.22727272727272727
+Predicted value = 20
+Total actual value = 88
+  CORRECT: Original MIS size = 88, Total value = 88
+    Original nodes: 137, Reduced nodes: 32
+    Reduction ratio: 0.77
+    Reduction time: 0.00 seconds
+  Solution 27/32:
+  Original MIS size: 88 nodes
+Predicted ratio = 0.22727272727272727
+Predicted value = 20
+Total actual value = 88
+  CORRECT: Original MIS size = 88, Total value = 88
+    Original nodes: 137, Reduced nodes: 29
+    Reduction ratio: 0.79
+    Reduction time: 0.00 seconds
+  Solution 28/32:
+  Original MIS size: 88 nodes
+Predicted ratio = 0.22727272727272727
+Predicted value = 20
+Total actual value = 88
+  CORRECT: Original MIS size = 88, Total value = 88
+    Original nodes: 137, Reduced nodes: 27
+    Reduction ratio: 0.80
+    Reduction time: 0.00 seconds
+  Solution 29/32:
+  Original MIS size: 88 nodes
+Predicted ratio = 0.22727272727272727
+Predicted value = 20
+Total actual value = 88
+  CORRECT: Original MIS size = 88, Total value = 88
+    Original nodes: 137, Reduced nodes: 25
+    Reduction ratio: 0.82
+    Reduction time: 0.00 seconds
+  Solution 30/32:
+  Original MIS size: 88 nodes
+Predicted ratio = 0.22727272727272727
+Predicted value = 20
+Total actual value = 88
+  CORRECT: Original MIS size = 88, Total value = 88
+    Original nodes: 137, Reduced nodes: 32
+    Reduction ratio: 0.77
+    Reduction time: 0.00 seconds
+  Solution 31/32:
+  Original MIS size: 88 nodes
+Predicted ratio = 0.22727272727272727
+Predicted value = 20
+Total actual value = 88
+  CORRECT: Original MIS size = 88, Total value = 88
+    Original nodes: 137, Reduced nodes: 30
+    Reduction ratio: 0.78
+    Reduction time: 0.00 seconds
+  Solution 32/32:
+  Original MIS size: 88 nodes
+Predicted ratio = 0.22727272727272727
+Predicted value = 20
+Total actual value = 88
+  CORRECT: Original MIS size = 88, Total value = 88
+    Original nodes: 137, Reduced nodes: 35
+    Reduction ratio: 0.74
+    Reduction time: 0.00 seconds
+
+Graph 5/1000
+  Original size: 131 nodes, 320 edges
+  Finding MIS solutions...
+  Found 32 MIS solutions in 0.59 seconds
+  Solution 1/32:
+  Original MIS size: 57 nodes
+Predicted ratio = 0.6491228070175439
+Predicted value = 37
+Total actual value = 57
+  CORRECT: Original MIS size = 57, Total value = 57
+    Original nodes: 131, Reduced nodes: 109
+    Reduction ratio: 0.17
+    Reduction time: 0.00 seconds
+  Solution 2/32:
+  Original MIS size: 57 nodes
+Predicted ratio = 0.6491228070175439
+Predicted value = 37
+Total actual value = 57
+  CORRECT: Original MIS size = 57, Total value = 57
+    Original nodes: 131, Reduced nodes: 109
+    Reduction ratio: 0.17
+    Reduction time: 0.00 seconds
+  Solution 3/32:
+  Original MIS size: 57 nodes
+Predicted ratio = 0.6491228070175439
+Predicted value = 37
+Total actual value = 57
+  CORRECT: Original MIS size = 57, Total value = 57
+    Original nodes: 131, Reduced nodes: 109
+    Reduction ratio: 0.17
+    Reduction time: 0.00 seconds
+  Solution 4/32:
+  Original MIS size: 57 nodes
+Predicted ratio = 0.6491228070175439
+Predicted value = 37
+Total actual value = 57
+  CORRECT: Original MIS size = 57, Total value = 57
+    Original nodes: 131, Reduced nodes: 109
+    Reduction ratio: 0.17
+    Reduction time: 0.00 seconds
+  Solution 5/32:
+  Original MIS size: 57 nodes
+Predicted ratio = 0.6491228070175439
+Predicted value = 37
+Total actual value = 57
+  CORRECT: Original MIS size = 57, Total value = 57
+    Original nodes: 131, Reduced nodes: 109
+    Reduction ratio: 0.17
+    Reduction time: 0.00 seconds
+  Solution 6/32:
+  Original MIS size: 57 nodes
+Predicted ratio = 0.6491228070175439
+Predicted value = 37
+Total actual value = 57
+  CORRECT: Original MIS size = 57, Total value = 57
+    Original nodes: 131, Reduced nodes: 109
+    Reduction ratio: 0.17
+    Reduction time: 0.00 seconds
+  Solution 7/32:
+  Original MIS size: 57 nodes
+Predicted ratio = 0.6491228070175439
+Predicted value = 37
+Total actual value = 57
+  CORRECT: Original MIS size = 57, Total value = 57
+    Original nodes: 131, Reduced nodes: 109
+    Reduction ratio: 0.17
+    Reduction time: 0.00 seconds
+  Solution 8/32:
+  Original MIS size: 57 nodes
+Predicted ratio = 0.6491228070175439
+Predicted value = 37
+Total actual value = 57
+  CORRECT: Original MIS size = 57, Total value = 57
+    Original nodes: 131, Reduced nodes: 109
+    Reduction ratio: 0.17
+    Reduction time: 0.00 seconds
+  Solution 9/32:
+  Original MIS size: 57 nodes
+Predicted ratio = 0.6491228070175439
+Predicted value = 37
+Total actual value = 57
+  CORRECT: Original MIS size = 57, Total value = 57
+    Original nodes: 131, Reduced nodes: 109
+    Reduction ratio: 0.17
+    Reduction time: 0.00 seconds
+  Solution 10/32:
+  Original MIS size: 57 nodes
+Predicted ratio = 0.6491228070175439
+Predicted value = 37
+Total actual value = 57
+  CORRECT: Original MIS size = 57, Total value = 57
+    Original nodes: 131, Reduced nodes: 109
+    Reduction ratio: 0.17
+    Reduction time: 0.00 seconds
+  Solution 11/32:
+  Original MIS size: 57 nodes
+Predicted ratio = 0.6491228070175439
+Predicted value = 37
+Total actual value = 57
+  CORRECT: Original MIS size = 57, Total value = 57
+    Original nodes: 131, Reduced nodes: 109
+    Reduction ratio: 0.17
+    Reduction time: 0.00 seconds
+  Solution 12/32:
+  Original MIS size: 57 nodes
+Predicted ratio = 0.6491228070175439
+Predicted value = 37
+Total actual value = 57
+  CORRECT: Original MIS size = 57, Total value = 57
+    Original nodes: 131, Reduced nodes: 109
+    Reduction ratio: 0.17
+    Reduction time: 0.00 seconds
+  Solution 13/32:
+  Original MIS size: 57 nodes
+Predicted ratio = 0.6491228070175439
+Predicted value = 37
+Total actual value = 57
+  CORRECT: Original MIS size = 57, Total value = 57
+    Original nodes: 131, Reduced nodes: 109
+    Reduction ratio: 0.17
+    Reduction time: 0.00 seconds
+  Solution 14/32:
+  Original MIS size: 57 nodes
+Predicted ratio = 0.6491228070175439
+Predicted value = 37
+Total actual value = 57
+  CORRECT: Original MIS size = 57, Total value = 57
+    Original nodes: 131, Reduced nodes: 109
+    Reduction ratio: 0.17
+    Reduction time: 0.00 seconds
+  Solution 15/32:
+  Original MIS size: 57 nodes
+Predicted ratio = 0.6491228070175439
+Predicted value = 37
+Total actual value = 57
+  CORRECT: Original MIS size = 57, Total value = 57
+    Original nodes: 131, Reduced nodes: 109
+    Reduction ratio: 0.17
+    Reduction time: 0.00 seconds
+  Solution 16/32:
+  Original MIS size: 57 nodes
+Predicted ratio = 0.6491228070175439
+Predicted value = 37
+Total actual value = 57
+  CORRECT: Original MIS size = 57, Total value = 57
+    Original nodes: 131, Reduced nodes: 109
+    Reduction ratio: 0.17
+    Reduction time: 0.00 seconds
+  Solution 17/32:
+  Original MIS size: 57 nodes
+Predicted ratio = 0.6491228070175439
+Predicted value = 37
+Total actual value = 57
+  CORRECT: Original MIS size = 57, Total value = 57
+    Original nodes: 131, Reduced nodes: 109
+    Reduction ratio: 0.17
+    Reduction time: 0.00 seconds
+  Solution 18/32:
+  Original MIS size: 57 nodes
+Predicted ratio = 0.6491228070175439
+Predicted value = 37
+Total actual value = 57
+  CORRECT: Original MIS size = 57, Total value = 57
+    Original nodes: 131, Reduced nodes: 109
+    Reduction ratio: 0.17
+    Reduction time: 0.00 seconds
+  Solution 19/32:
+  Original MIS size: 57 nodes
+Predicted ratio = 0.6491228070175439
+Predicted value = 37
+Total actual value = 57
+  CORRECT: Original MIS size = 57, Total value = 57
+    Original nodes: 131, Reduced nodes: 109
+    Reduction ratio: 0.17
+    Reduction time: 0.00 seconds
+  Solution 20/32:
+  Original MIS size: 57 nodes
+Predicted ratio = 0.6491228070175439
+Predicted value = 37
+Total actual value = 57
+  CORRECT: Original MIS size = 57, Total value = 57
+    Original nodes: 131, Reduced nodes: 109
+    Reduction ratio: 0.17
+    Reduction time: 0.00 seconds
+  Solution 21/32:
+  Original MIS size: 57 nodes
+Predicted ratio = 0.6491228070175439
+Predicted value = 37
+Total actual value = 57
+  CORRECT: Original MIS size = 57, Total value = 57
+    Original nodes: 131, Reduced nodes: 109
+    Reduction ratio: 0.17
+    Reduction time: 0.00 seconds
+  Solution 22/32:
+  Original MIS size: 57 nodes
+Predicted ratio = 0.6491228070175439
+Predicted value = 37
+Total actual value = 57
+  CORRECT: Original MIS size = 57, Total value = 57
+    Original nodes: 131, Reduced nodes: 109
+    Reduction ratio: 0.17
+    Reduction time: 0.00 seconds
+  Solution 23/32:
+  Original MIS size: 57 nodes
+Predicted ratio = 0.6491228070175439
+Predicted value = 37
+Total actual value = 57
+  CORRECT: Original MIS size = 57, Total value = 57
+    Original nodes: 131, Reduced nodes: 109
+    Reduction ratio: 0.17
+    Reduction time: 0.00 seconds
+  Solution 24/32:
+  Original MIS size: 57 nodes
+Predicted ratio = 0.6491228070175439
+Predicted value = 37
+Total actual value = 57
+  CORRECT: Original MIS size = 57, Total value = 57
+    Original nodes: 131, Reduced nodes: 109
+    Reduction ratio: 0.17
+    Reduction time: 0.00 seconds
+  Solution 25/32:
+  Original MIS size: 57 nodes
+Predicted ratio = 0.6491228070175439
+Predicted value = 37
+Total actual value = 57
+  CORRECT: Original MIS size = 57, Total value = 57
+    Original nodes: 131, Reduced nodes: 109
+    Reduction ratio: 0.17
+    Reduction time: 0.00 seconds
+  Solution 26/32:
+  Original MIS size: 57 nodes
+Predicted ratio = 0.6491228070175439
+Predicted value = 37
+Total actual value = 57
+  CORRECT: Original MIS size = 57, Total value = 57
+    Original nodes: 131, Reduced nodes: 109
+    Reduction ratio: 0.17
+    Reduction time: 0.00 seconds
+  Solution 27/32:
+  Original MIS size: 57 nodes
+Predicted ratio = 0.6491228070175439
+Predicted value = 37
+Total actual value = 57
+  CORRECT: Original MIS size = 57, Total value = 57
+    Original nodes: 131, Reduced nodes: 109
+    Reduction ratio: 0.17
+    Reduction time: 0.00 seconds
+  Solution 28/32:
+  Original MIS size: 57 nodes
+Predicted ratio = 0.6491228070175439
+Predicted value = 37
+Total actual value = 57
+  CORRECT: Original MIS size = 57, Total value = 57
+    Original nodes: 131, Reduced nodes: 109
+    Reduction ratio: 0.17
+    Reduction time: 0.00 seconds
+  Solution 29/32:
+  Original MIS size: 57 nodes
+Predicted ratio = 0.6491228070175439
+Predicted value = 37
+Total actual value = 57
+  CORRECT: Original MIS size = 57, Total value = 57
+    Original nodes: 131, Reduced nodes: 109
+    Reduction ratio: 0.17
+    Reduction time: 0.00 seconds
+  Solution 30/32:
+  Original MIS size: 57 nodes
+Predicted ratio = 0.6491228070175439
+Predicted value = 37
+Total actual value = 57
+  CORRECT: Original MIS size = 57, Total value = 57
+    Original nodes: 131, Reduced nodes: 109
+    Reduction ratio: 0.17
+    Reduction time: 0.00 seconds
+  Solution 31/32:
+  Original MIS size: 57 nodes
+Predicted ratio = 0.6491228070175439
+Predicted value = 37
+Total actual value = 57
+  CORRECT: Original MIS size = 57, Total value = 57
+    Original nodes: 131, Reduced nodes: 109
+    Reduction ratio: 0.17
+    Reduction time: 0.00 seconds
+  Solution 32/32:
+  Original MIS size: 57 nodes
+Predicted ratio = 0.6491228070175439
+Predicted value = 37
+Total actual value = 57
+  CORRECT: Original MIS size = 57, Total value = 57
+    Original nodes: 131, Reduced nodes: 109
+    Reduction ratio: 0.17
+    Reduction time: 0.00 seconds
+
+Graph 6/1000
+  Original size: 242 nodes, 574 edges
+  Finding MIS solutions...
+  Found 32 MIS solutions in 7.66 seconds

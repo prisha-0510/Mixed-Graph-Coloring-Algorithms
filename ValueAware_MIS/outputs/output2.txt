@@ -1,0 +1,1618 @@
+Loss function weights: si/s_mean, nsi/ns_mean
+Device: cpu
+Config: Hidden Dim=32, Layers=20, Maps=32
+Loading data...
+Loaded 1000 graph datasets
+Split: 800 training, 200 testing
+Starting model training...
+Training value-aware GCN model...
+Epoch 1/200 - Avg Loss: 0.7290
+Epoch 2/200 - Avg Loss: 0.2038
+Epoch 3/200 - Avg Loss: 0.1269
+Epoch 4/200 - Avg Loss: 0.1170
+Epoch 5/200 - Avg Loss: 0.1054
+Epoch 6/200 - Avg Loss: 0.1070
+Epoch 7/200 - Avg Loss: 0.1039
+Epoch 8/200 - Avg Loss: 0.0916
+Epoch 9/200 - Avg Loss: 0.0752
+Epoch 10/200 - Avg Loss: 0.0962
+Epoch 11/200 - Avg Loss: 0.0669
+Epoch 12/200 - Avg Loss: 0.0787
+Epoch 13/200 - Avg Loss: 0.0649
+Epoch 14/200 - Avg Loss: 0.0724
+Epoch 15/200 - Avg Loss: 0.0455
+Epoch 16/200 - Avg Loss: 0.0681
+Epoch 17/200 - Avg Loss: 0.0467
+Epoch 18/200 - Avg Loss: 0.0621
+Epoch 19/200 - Avg Loss: 0.0400
+Epoch 20/200 - Avg Loss: 0.0557
+Epoch 21/200 - Avg Loss: 0.0384
+Epoch 22/200 - Avg Loss: 0.0579
+Epoch 23/200 - Avg Loss: 0.0393
+Epoch 24/200 - Avg Loss: 0.0563
+Epoch 25/200 - Avg Loss: 0.0410
+Epoch 26/200 - Avg Loss: 0.0537
+Epoch 27/200 - Avg Loss: 0.0369
+Epoch 28/200 - Avg Loss: 0.0525
+Epoch 29/200 - Avg Loss: 0.0365
+Epoch 30/200 - Avg Loss: 0.0522
+Epoch 31/200 - Avg Loss: 0.0357
+Epoch 32/200 - Avg Loss: 0.0522
+Epoch 33/200 - Avg Loss: 0.0341
+Epoch 34/200 - Avg Loss: 0.0468
+Epoch 35/200 - Avg Loss: 0.0209
+Epoch 36/200 - Avg Loss: 0.0479
+Epoch 37/200 - Avg Loss: 0.0339
+Epoch 38/200 - Avg Loss: 0.0489
+Epoch 39/200 - Avg Loss: 0.0312
+Epoch 40/200 - Avg Loss: 0.0489
+Epoch 41/200 - Avg Loss: 0.0330
+Epoch 42/200 - Avg Loss: 0.0485
+Epoch 43/200 - Avg Loss: 0.0301
+Epoch 44/200 - Avg Loss: 0.0461
+Epoch 45/200 - Avg Loss: 0.0268
+Epoch 46/200 - Avg Loss: 0.0448
+Epoch 47/200 - Avg Loss: 0.0252
+Epoch 48/200 - Avg Loss: 0.0447
+Epoch 49/200 - Avg Loss: 0.0297
+Epoch 50/200 - Avg Loss: 0.0448
+Epoch 51/200 - Avg Loss: 0.0270
+Epoch 52/200 - Avg Loss: 0.0441
+Epoch 53/200 - Avg Loss: 0.0278
+Epoch 54/200 - Avg Loss: 0.0418
+Epoch 55/200 - Avg Loss: 0.0283
+Epoch 56/200 - Avg Loss: 0.0426
+Epoch 57/200 - Avg Loss: 0.0263
+Epoch 58/200 - Avg Loss: 0.0413
+Epoch 59/200 - Avg Loss: 0.0252
+Epoch 60/200 - Avg Loss: 0.0460
+Epoch 61/200 - Avg Loss: 0.0265
+Epoch 62/200 - Avg Loss: 0.0396
+Epoch 63/200 - Avg Loss: 0.0280
+Epoch 64/200 - Avg Loss: 0.0416
+Epoch 65/200 - Avg Loss: 0.0276
+Epoch 66/200 - Avg Loss: 0.0340
+Epoch 67/200 - Avg Loss: 0.0174
+Epoch 68/200 - Avg Loss: 0.0363
+Epoch 69/200 - Avg Loss: 0.0277
+Epoch 70/200 - Avg Loss: 0.0410
+Epoch 71/200 - Avg Loss: 0.0250
+Epoch 72/200 - Avg Loss: 0.0395
+Epoch 73/200 - Avg Loss: 0.0251
+Epoch 74/200 - Avg Loss: 0.0415
+Epoch 75/200 - Avg Loss: 0.0238
+Epoch 76/200 - Avg Loss: 0.0384
+Epoch 77/200 - Avg Loss: 0.0207
+Epoch 78/200 - Avg Loss: 0.0373
+Epoch 79/200 - Avg Loss: 0.0206
+Epoch 80/200 - Avg Loss: 0.0374
+Epoch 81/200 - Avg Loss: 0.0222
+Epoch 82/200 - Avg Loss: 0.0379
+Epoch 83/200 - Avg Loss: 0.0225
+Epoch 84/200 - Avg Loss: 0.0378
+Epoch 85/200 - Avg Loss: 0.0225
+Epoch 86/200 - Avg Loss: 0.0368
+Epoch 87/200 - Avg Loss: 0.0237
+Epoch 88/200 - Avg Loss: 0.0395
+Epoch 89/200 - Avg Loss: 0.0260
+Epoch 90/200 - Avg Loss: 0.0386
+Epoch 91/200 - Avg Loss: 0.0236
+Epoch 92/200 - Avg Loss: 0.0387
+Epoch 93/200 - Avg Loss: 0.0236
+Epoch 94/200 - Avg Loss: 0.0377
+Epoch 95/200 - Avg Loss: 0.0250
+Epoch 96/200 - Avg Loss: 0.0393
+Epoch 97/200 - Avg Loss: 0.0318
+Epoch 98/200 - Avg Loss: 0.0307
+Epoch 99/200 - Avg Loss: 0.0147
+Epoch 100/200 - Avg Loss: 0.0345
+Epoch 101/200 - Avg Loss: 0.0252
+Epoch 102/200 - Avg Loss: 0.0386
+Epoch 103/200 - Avg Loss: 0.0245
+Epoch 104/200 - Avg Loss: 0.0384
+Epoch 105/200 - Avg Loss: 0.0232
+Epoch 106/200 - Avg Loss: 0.0369
+Epoch 107/200 - Avg Loss: 0.0221
+Epoch 108/200 - Avg Loss: 0.0350
+Epoch 109/200 - Avg Loss: 0.0228
+Epoch 110/200 - Avg Loss: 0.0350
+Epoch 111/200 - Avg Loss: 0.0195
+Epoch 112/200 - Avg Loss: 0.0349
+Epoch 113/200 - Avg Loss: 0.0198
+Epoch 114/200 - Avg Loss: 0.0336
+Epoch 115/200 - Avg Loss: 0.0199
+Epoch 116/200 - Avg Loss: 0.0334
+Epoch 117/200 - Avg Loss: 0.0206
+Epoch 118/200 - Avg Loss: 0.0348
+Epoch 119/200 - Avg Loss: 0.0204
+Epoch 120/200 - Avg Loss: 0.0342
+Epoch 121/200 - Avg Loss: 0.0214
+Epoch 122/200 - Avg Loss: 0.0364
+Epoch 123/200 - Avg Loss: 0.0195
+Epoch 124/200 - Avg Loss: 0.0356
+Epoch 125/200 - Avg Loss: 0.0212
+Epoch 126/200 - Avg Loss: 0.0351
+Epoch 127/200 - Avg Loss: 0.0223
+Epoch 128/200 - Avg Loss: 0.0352
+Epoch 129/200 - Avg Loss: 0.0242
+Epoch 130/200 - Avg Loss: 0.0279
+Epoch 131/200 - Avg Loss: 0.0132
+Epoch 132/200 - Avg Loss: 0.0339
+Epoch 133/200 - Avg Loss: 0.0231
+Epoch 134/200 - Avg Loss: 0.0358
+Epoch 135/200 - Avg Loss: 0.0213
+Epoch 136/200 - Avg Loss: 0.0369
+Epoch 137/200 - Avg Loss: 0.0227
+Epoch 138/200 - Avg Loss: 0.0357
+Epoch 139/200 - Avg Loss: 0.0206
+Epoch 140/200 - Avg Loss: 0.0335
+Epoch 141/200 - Avg Loss: 0.0212
+Epoch 142/200 - Avg Loss: 0.0345
+Epoch 143/200 - Avg Loss: 0.0189
+Epoch 144/200 - Avg Loss: 0.0329
+Epoch 145/200 - Avg Loss: 0.0194
+Epoch 146/200 - Avg Loss: 0.0322
+Epoch 147/200 - Avg Loss: 0.0179
+Epoch 148/200 - Avg Loss: 0.0313
+Epoch 149/200 - Avg Loss: 0.0192
+Epoch 150/200 - Avg Loss: 0.0331
+Epoch 151/200 - Avg Loss: 0.0196
+Epoch 152/200 - Avg Loss: 0.0328
+Epoch 153/200 - Avg Loss: 0.0194
+Epoch 154/200 - Avg Loss: 0.0329
+Epoch 155/200 - Avg Loss: 0.0205
+Epoch 156/200 - Avg Loss: 0.0327
+Epoch 157/200 - Avg Loss: 0.0199
+Epoch 158/200 - Avg Loss: 0.0322
+Epoch 159/200 - Avg Loss: 0.0241
+Epoch 160/200 - Avg Loss: 0.0330
+Epoch 161/200 - Avg Loss: 0.0218
+Epoch 162/200 - Avg Loss: 0.0260
+Epoch 163/200 - Avg Loss: 0.0111
+Epoch 164/200 - Avg Loss: 0.0292
+Epoch 165/200 - Avg Loss: 0.0229
+Epoch 166/200 - Avg Loss: 0.0333
+Epoch 167/200 - Avg Loss: 0.0205
+Epoch 168/200 - Avg Loss: 0.0330
+Epoch 169/200 - Avg Loss: 0.0208
+Epoch 170/200 - Avg Loss: 0.0317
+Epoch 171/200 - Avg Loss: 0.0191
+Epoch 172/200 - Avg Loss: 0.0296
+Epoch 173/200 - Avg Loss: 0.0167
+Epoch 174/200 - Avg Loss: 0.0319
+Epoch 175/200 - Avg Loss: 0.0172
+Epoch 176/200 - Avg Loss: 0.0310
+Epoch 177/200 - Avg Loss: 0.0188
+Epoch 178/200 - Avg Loss: 0.0310
+Epoch 179/200 - Avg Loss: 0.0167
+Epoch 180/200 - Avg Loss: 0.0303
+Epoch 181/200 - Avg Loss: 0.0178
+Epoch 182/200 - Avg Loss: 0.0317
+Epoch 183/200 - Avg Loss: 0.0185
+Epoch 184/200 - Avg Loss: 0.0316
+Epoch 185/200 - Avg Loss: 0.0185
+Epoch 186/200 - Avg Loss: 0.0311
+Epoch 187/200 - Avg Loss: 0.0171
+Epoch 188/200 - Avg Loss: 0.0321
+Epoch 189/200 - Avg Loss: 0.0191
+Epoch 190/200 - Avg Loss: 0.0304
+Epoch 191/200 - Avg Loss: 0.0210
+Epoch 192/200 - Avg Loss: 0.0325
+Epoch 193/200 - Avg Loss: 0.0202
+Epoch 194/200 - Avg Loss: 0.0246
+Epoch 195/200 - Avg Loss: 0.0099
+Epoch 196/200 - Avg Loss: 0.0260
+Epoch 197/200 - Avg Loss: 0.0202
+Epoch 198/200 - Avg Loss: 0.0328
+Epoch 199/200 - Avg Loss: 0.0208
+Epoch 200/200 - Avg Loss: 0.0335
+Model saved to model_parameters/value_aware_gcn.pth
+Saved test data to model_parameters/test_data.pickle
+Loading model for evaluation...
+Starting evaluation...
+Evaluating model...
+
+Graph 1/200: Original size: 276 nodes, 544 edges
+Prediction results:
+  MIS size: 70 nodes
+  Prediction value: 122.00
+  Ground truth value: 133.00
+  Value ratio: 0.9173
+
+Graph 2/200: Original size: 230 nodes, 339 edges
+Prediction results:
+  MIS size: 46 nodes
+  Prediction value: 117.00
+  Ground truth value: 121.00
+  Value ratio: 0.9669
+
+Graph 3/200: Original size: 105 nodes, 54 edges
+Prediction results:
+  MIS size: 52 nodes
+  Prediction value: 78.00
+  Ground truth value: 79.00
+  Value ratio: 0.9873
+
+Graph 4/200: Original size: 137 nodes, 138 edges
+Prediction results:
+  MIS size: 25 nodes
+  Prediction value: 84.00
+  Ground truth value: 88.00
+  Value ratio: 0.9545
+
+Graph 5/200: Original size: 174 nodes, 193 edges
+Prediction results:
+  MIS size: 28 nodes
+  Prediction value: 101.00
+  Ground truth value: 104.00
+  Value ratio: 0.9712
+
+Graph 6/200: Original size: 197 nodes, 244 edges
+Prediction results:
+  MIS size: 40 nodes
+  Prediction value: 111.00
+  Ground truth value: 115.00
+  Value ratio: 0.9652
+
+Graph 7/200: Original size: 253 nodes, 480 edges
+Prediction results:
+  MIS size: 60 nodes
+  Prediction value: 114.00
+  Ground truth value: 123.00
+  Value ratio: 0.9268
+
+Graph 8/200: Original size: 214 nodes, 526 edges
+Prediction results:
+  MIS size: 71 nodes
+  Prediction value: 90.00
+  Ground truth value: 93.00
+  Value ratio: 0.9677
+
+Graph 9/200: Original size: 118 nodes, 345 edges
+Prediction results:
+  MIS size: 37 nodes
+  Prediction value: 45.00
+  Ground truth value: 47.00
+  Value ratio: 0.9574
+
+Graph 10/200: Original size: 263 nodes, 529 edges
+Prediction results:
+  MIS size: 69 nodes
+  Prediction value: 120.00
+  Ground truth value: 126.00
+  Value ratio: 0.9524
+
+Graph 11/200: Original size: 268 nodes, 540 edges
+Prediction results:
+  MIS size: 68 nodes
+  Prediction value: 125.00
+  Ground truth value: 127.00
+  Value ratio: 0.9843
+
+Graph 12/200: Original size: 288 nodes, 611 edges
+Prediction results:
+  MIS size: 86 nodes
+  Prediction value: 127.00
+  Ground truth value: 134.00
+  Value ratio: 0.9478
+
+Graph 13/200: Original size: 155 nodes, 350 edges
+Prediction results:
+  MIS size: 47 nodes
+  Prediction value: 64.00
+  Ground truth value: 67.00
+  Value ratio: 0.9552
+
+Graph 14/200: Original size: 178 nodes, 302 edges
+Prediction results:
+  MIS size: 37 nodes
+  Prediction value: 85.00
+  Ground truth value: 90.00
+  Value ratio: 0.9444
+
+Graph 15/200: Original size: 271 nodes, 408 edges
+Prediction results:
+  MIS size: 50 nodes
+  Prediction value: 135.00
+  Ground truth value: 143.00
+  Value ratio: 0.9441
+
+Graph 16/200: Original size: 230 nodes, 524 edges
+Prediction results:
+  MIS size: 59 nodes
+  Prediction value: 97.00
+  Ground truth value: 102.00
+  Value ratio: 0.9510
+
+Graph 17/200: Original size: 126 nodes, 192 edges
+Prediction results:
+  MIS size: 28 nodes
+  Prediction value: 64.00
+  Ground truth value: 65.00
+  Value ratio: 0.9846
+
+Graph 18/200: Original size: 242 nodes, 336 edges
+Prediction results:
+  MIS size: 39 nodes
+  Prediction value: 128.00
+  Ground truth value: 136.00
+  Value ratio: 0.9412
+
+Graph 19/200: Original size: 267 nodes, 569 edges
+Prediction results:
+  MIS size: 69 nodes
+  Prediction value: 118.00
+  Ground truth value: 123.00
+  Value ratio: 0.9593
+
+Graph 20/200: Original size: 195 nodes, 320 edges
+Prediction results:
+  MIS size: 48 nodes
+  Prediction value: 99.00
+  Ground truth value: 104.00
+  Value ratio: 0.9519
+
+Graph 21/200: Original size: 234 nodes, 313 edges
+Prediction results:
+  MIS size: 40 nodes
+  Prediction value: 124.00
+  Ground truth value: 130.00
+  Value ratio: 0.9538
+
+Graph 22/200: Original size: 284 nodes, 436 edges
+Prediction results:
+  MIS size: 52 nodes
+  Prediction value: 147.00
+  Ground truth value: 154.00
+  Value ratio: 0.9545
+
+Graph 23/200: Original size: 300 nodes, 463 edges
+Prediction results:
+  MIS size: 67 nodes
+  Prediction value: 151.00
+  Ground truth value: 157.00
+  Value ratio: 0.9618
+
+Graph 24/200: Original size: 204 nodes, 260 edges
+Prediction results:
+  MIS size: 27 nodes
+  Prediction value: 110.00
+  Ground truth value: 116.00
+  Value ratio: 0.9483
+
+Graph 25/200: Original size: 225 nodes, 470 edges
+Prediction results:
+  MIS size: 66 nodes
+  Prediction value: 98.00
+  Ground truth value: 103.00
+  Value ratio: 0.9515
+
+Graph 26/200: Original size: 146 nodes, 193 edges
+Prediction results:
+  MIS size: 33 nodes
+  Prediction value: 81.00
+  Ground truth value: 84.00
+  Value ratio: 0.9643
+
+Graph 27/200: Original size: 257 nodes, 366 edges
+Prediction results:
+  MIS size: 51 nodes
+  Prediction value: 131.00
+  Ground truth value: 139.00
+  Value ratio: 0.9424
+
+Graph 28/200: Original size: 147 nodes, 266 edges
+Prediction results:
+  MIS size: 34 nodes
+  Prediction value: 71.00
+  Ground truth value: 72.00
+  Value ratio: 0.9861
+
+Graph 29/200: Original size: 249 nodes, 553 edges
+Prediction results:
+  MIS size: 59 nodes
+  Prediction value: 103.00
+  Ground truth value: 113.00
+  Value ratio: 0.9115
+
+Graph 30/200: Original size: 255 nodes, 367 edges
+Prediction results:
+  MIS size: 48 nodes
+  Prediction value: 134.00
+  Ground truth value: 142.00
+  Value ratio: 0.9437
+
+Graph 31/200: Original size: 208 nodes, 357 edges
+Prediction results:
+  MIS size: 45 nodes
+  Prediction value: 101.00
+  Ground truth value: 105.00
+  Value ratio: 0.9619
+
+Graph 32/200: Original size: 142 nodes, 134 edges
+Prediction results:
+  MIS size: 36 nodes
+  Prediction value: 85.00
+  Ground truth value: 87.00
+  Value ratio: 0.9770
+
+Graph 33/200: Original size: 225 nodes, 296 edges
+Prediction results:
+  MIS size: 44 nodes
+  Prediction value: 123.00
+  Ground truth value: 129.00
+  Value ratio: 0.9535
+
+Graph 34/200: Original size: 151 nodes, 268 edges
+Prediction results:
+  MIS size: 35 nodes
+  Prediction value: 74.00
+  Ground truth value: 78.00
+  Value ratio: 0.9487
+
+Graph 35/200: Original size: 288 nodes, 398 edges
+Prediction results:
+  MIS size: 51 nodes
+  Prediction value: 154.00
+  Ground truth value: 160.00
+  Value ratio: 0.9625
+
+Graph 36/200: Original size: 194 nodes, 243 edges
+Prediction results:
+  MIS size: 31 nodes
+  Prediction value: 107.00
+  Ground truth value: 114.00
+  Value ratio: 0.9386
+
+Graph 37/200: Original size: 240 nodes, 459 edges
+Prediction results:
+  MIS size: 58 nodes
+  Prediction value: 112.00
+  Ground truth value: 116.00
+  Value ratio: 0.9655
+
+Graph 38/200: Original size: 239 nodes, 498 edges
+Prediction results:
+  MIS size: 70 nodes
+  Prediction value: 102.00
+  Ground truth value: 109.00
+  Value ratio: 0.9358
+
+Graph 39/200: Original size: 186 nodes, 210 edges
+Prediction results:
+  MIS size: 40 nodes
+  Prediction value: 110.00
+  Ground truth value: 115.00
+  Value ratio: 0.9565
+
+Graph 40/200: Original size: 268 nodes, 478 edges
+Prediction results:
+  MIS size: 63 nodes
+  Prediction value: 130.00
+  Ground truth value: 136.00
+  Value ratio: 0.9559
+
+Graph 41/200: Original size: 230 nodes, 292 edges
+Prediction results:
+  MIS size: 43 nodes
+  Prediction value: 122.00
+  Ground truth value: 127.00
+  Value ratio: 0.9606
+
+Graph 42/200: Original size: 198 nodes, 222 edges
+Prediction results:
+  MIS size: 32 nodes
+  Prediction value: 110.00
+  Ground truth value: 114.00
+  Value ratio: 0.9649
+
+Graph 43/200: Original size: 287 nodes, 625 edges
+Prediction results:
+  MIS size: 75 nodes
+  Prediction value: 122.00
+  Ground truth value: 132.00
+  Value ratio: 0.9242
+
+Graph 44/200: Original size: 223 nodes, 377 edges
+Prediction results:
+  MIS size: 52 nodes
+  Prediction value: 108.00
+  Ground truth value: 114.00
+  Value ratio: 0.9474
+
+Graph 45/200: Original size: 219 nodes, 279 edges
+Prediction results:
+  MIS size: 40 nodes
+  Prediction value: 119.00
+  Ground truth value: 124.00
+  Value ratio: 0.9597
+
+Graph 46/200: Original size: 187 nodes, 163 edges
+Prediction results:
+  MIS size: 38 nodes
+  Prediction value: 107.00
+  Ground truth value: 115.00
+  Value ratio: 0.9304
+
+Graph 47/200: Original size: 154 nodes, 240 edges
+Prediction results:
+  MIS size: 29 nodes
+  Prediction value: 81.00
+  Ground truth value: 83.00
+  Value ratio: 0.9759
+
+Graph 48/200: Original size: 182 nodes, 302 edges
+Prediction results:
+  MIS size: 41 nodes
+  Prediction value: 84.00
+  Ground truth value: 89.00
+  Value ratio: 0.9438
+
+Graph 49/200: Original size: 133 nodes, 266 edges
+Prediction results:
+  MIS size: 35 nodes
+  Prediction value: 59.00
+  Ground truth value: 62.00
+  Value ratio: 0.9516
+
+Graph 50/200: Original size: 153 nodes, 135 edges
+Prediction results:
+  MIS size: 35 nodes
+  Prediction value: 94.00
+  Ground truth value: 97.00
+  Value ratio: 0.9691
+
+Graph 51/200: Original size: 161 nodes, 384 edges
+Prediction results:
+  MIS size: 51 nodes
+  Prediction value: 68.00
+  Ground truth value: 71.00
+  Value ratio: 0.9577
+
+Graph 52/200: Original size: 108 nodes, 118 edges
+Prediction results:
+  MIS size: 18 nodes
+  Prediction value: 58.00
+  Ground truth value: 63.00
+  Value ratio: 0.9206
+
+Graph 53/200: Original size: 263 nodes, 367 edges
+Prediction results:
+  MIS size: 52 nodes
+  Prediction value: 140.00
+  Ground truth value: 144.00
+  Value ratio: 0.9722
+
+Graph 54/200: Original size: 264 nodes, 323 edges
+Prediction results:
+  MIS size: 46 nodes
+  Prediction value: 142.00
+  Ground truth value: 151.00
+  Value ratio: 0.9404
+
+Graph 55/200: Original size: 293 nodes, 463 edges
+Prediction results:
+  MIS size: 61 nodes
+  Prediction value: 148.00
+  Ground truth value: 153.00
+  Value ratio: 0.9673
+
+Graph 56/200: Original size: 135 nodes, 186 edges
+Prediction results:
+  MIS size: 30 nodes
+  Prediction value: 71.00
+  Ground truth value: 71.00
+  Value ratio: 1.0000
+
+Graph 57/200: Original size: 127 nodes, 254 edges
+Prediction results:
+  MIS size: 43 nodes
+  Prediction value: 62.00
+  Ground truth value: 62.00
+  Value ratio: 1.0000
+
+Graph 58/200: Original size: 175 nodes, 275 edges
+Prediction results:
+  MIS size: 34 nodes
+  Prediction value: 90.00
+  Ground truth value: 91.00
+  Value ratio: 0.9890
+
+Graph 59/200: Original size: 129 nodes, 241 edges
+Prediction results:
+  MIS size: 35 nodes
+  Prediction value: 62.00
+  Ground truth value: 64.00
+  Value ratio: 0.9688
+
+Graph 60/200: Original size: 216 nodes, 293 edges
+Prediction results:
+  MIS size: 38 nodes
+  Prediction value: 114.00
+  Ground truth value: 119.00
+  Value ratio: 0.9580
+
+Graph 61/200: Original size: 116 nodes, 238 edges
+Prediction results:
+  MIS size: 36 nodes
+  Prediction value: 53.00
+  Ground truth value: 55.00
+  Value ratio: 0.9636
+
+Graph 62/200: Original size: 168 nodes, 254 edges
+Prediction results:
+  MIS size: 35 nodes
+  Prediction value: 86.00
+  Ground truth value: 87.00
+  Value ratio: 0.9885
+
+Graph 63/200: Original size: 160 nodes, 204 edges
+Prediction results:
+  MIS size: 30 nodes
+  Prediction value: 88.00
+  Ground truth value: 89.00
+  Value ratio: 0.9888
+
+Graph 64/200: Original size: 258 nodes, 413 edges
+Prediction results:
+  MIS size: 53 nodes
+  Prediction value: 124.00
+  Ground truth value: 129.00
+  Value ratio: 0.9612
+
+Graph 65/200: Original size: 218 nodes, 439 edges
+Prediction results:
+  MIS size: 66 nodes
+  Prediction value: 102.00
+  Ground truth value: 106.00
+  Value ratio: 0.9623
+
+Graph 66/200: Original size: 197 nodes, 299 edges
+Prediction results:
+  MIS size: 38 nodes
+  Prediction value: 98.00
+  Ground truth value: 102.00
+  Value ratio: 0.9608
+
+Graph 67/200: Original size: 136 nodes, 211 edges
+Prediction results:
+  MIS size: 26 nodes
+  Prediction value: 70.00
+  Ground truth value: 71.00
+  Value ratio: 0.9859
+
+Graph 68/200: Original size: 297 nodes, 433 edges
+Prediction results:
+  MIS size: 54 nodes
+  Prediction value: 151.00
+  Ground truth value: 159.00
+  Value ratio: 0.9497
+
+Graph 69/200: Original size: 229 nodes, 395 edges
+Prediction results:
+  MIS size: 53 nodes
+  Prediction value: 115.00
+  Ground truth value: 120.00
+  Value ratio: 0.9583
+
+Graph 70/200: Original size: 209 nodes, 353 edges
+Prediction results:
+  MIS size: 47 nodes
+  Prediction value: 101.00
+  Ground truth value: 108.00
+  Value ratio: 0.9352
+
+Graph 71/200: Original size: 253 nodes, 478 edges
+Prediction results:
+  MIS size: 66 nodes
+  Prediction value: 116.00
+  Ground truth value: 124.00
+  Value ratio: 0.9355
+
+Graph 72/200: Original size: 206 nodes, 379 edges
+Prediction results:
+  MIS size: 51 nodes
+  Prediction value: 103.00
+  Ground truth value: 107.00
+  Value ratio: 0.9626
+
+Graph 73/200: Original size: 253 nodes, 428 edges
+Prediction results:
+  MIS size: 57 nodes
+  Prediction value: 126.00
+  Ground truth value: 129.00
+  Value ratio: 0.9767
+
+Graph 74/200: Original size: 127 nodes, 230 edges
+Prediction results:
+  MIS size: 31 nodes
+  Prediction value: 60.00
+  Ground truth value: 62.00
+  Value ratio: 0.9677
+
+Graph 75/200: Original size: 271 nodes, 548 edges
+Prediction results:
+  MIS size: 73 nodes
+  Prediction value: 121.00
+  Ground truth value: 132.00
+  Value ratio: 0.9167
+
+Graph 76/200: Original size: 241 nodes, 351 edges
+Prediction results:
+  MIS size: 53 nodes
+  Prediction value: 121.00
+  Ground truth value: 125.00
+  Value ratio: 0.9680
+
+Graph 77/200: Original size: 207 nodes, 539 edges
+Prediction results:
+  MIS size: 68 nodes
+  Prediction value: 84.00
+  Ground truth value: 89.00
+  Value ratio: 0.9438
+
+Graph 78/200: Original size: 219 nodes, 454 edges
+Prediction results:
+  MIS size: 62 nodes
+  Prediction value: 95.00
+  Ground truth value: 107.00
+  Value ratio: 0.8879
+
+Graph 79/200: Original size: 140 nodes, 214 edges
+Prediction results:
+  MIS size: 33 nodes
+  Prediction value: 73.00
+  Ground truth value: 75.00
+  Value ratio: 0.9733
+
+Graph 80/200: Original size: 227 nodes, 333 edges
+Prediction results:
+  MIS size: 43 nodes
+  Prediction value: 117.00
+  Ground truth value: 122.00
+  Value ratio: 0.9590
+
+Graph 81/200: Original size: 229 nodes, 475 edges
+Prediction results:
+  MIS size: 60 nodes
+  Prediction value: 99.00
+  Ground truth value: 107.00
+  Value ratio: 0.9252
+
+Graph 82/200: Original size: 175 nodes, 264 edges
+Prediction results:
+  MIS size: 36 nodes
+  Prediction value: 90.00
+  Ground truth value: 92.00
+  Value ratio: 0.9783
+
+Graph 83/200: Original size: 246 nodes, 367 edges
+Prediction results:
+  MIS size: 47 nodes
+  Prediction value: 124.00
+  Ground truth value: 131.00
+  Value ratio: 0.9466
+
+Graph 84/200: Original size: 155 nodes, 401 edges
+Prediction results:
+  MIS size: 51 nodes
+  Prediction value: 65.00
+  Ground truth value: 68.00
+  Value ratio: 0.9559
+
+Graph 85/200: Original size: 130 nodes, 149 edges
+Prediction results:
+  MIS size: 23 nodes
+  Prediction value: 76.00
+  Ground truth value: 77.00
+  Value ratio: 0.9870
+
+Graph 86/200: Original size: 286 nodes, 463 edges
+Prediction results:
+  MIS size: 56 nodes
+  Prediction value: 135.00
+  Ground truth value: 141.00
+  Value ratio: 0.9574
+
+Graph 87/200: Original size: 293 nodes, 433 edges
+Prediction results:
+  MIS size: 51 nodes
+  Prediction value: 153.00
+  Ground truth value: 158.00
+  Value ratio: 0.9684
+
+Graph 88/200: Original size: 185 nodes, 238 edges
+Prediction results:
+  MIS size: 37 nodes
+  Prediction value: 99.00
+  Ground truth value: 105.00
+  Value ratio: 0.9429
+
+Graph 89/200: Original size: 127 nodes, 110 edges
+Prediction results:
+  MIS size: 26 nodes
+  Prediction value: 75.00
+  Ground truth value: 81.00
+  Value ratio: 0.9259
+
+Graph 90/200: Original size: 224 nodes, 273 edges
+Prediction results:
+  MIS size: 46 nodes
+  Prediction value: 121.00
+  Ground truth value: 130.00
+  Value ratio: 0.9308
+
+Graph 91/200: Original size: 268 nodes, 438 edges
+Prediction results:
+  MIS size: 49 nodes
+  Prediction value: 134.00
+  Ground truth value: 137.00
+  Value ratio: 0.9781
+
+Graph 92/200: Original size: 176 nodes, 209 edges
+Prediction results:
+  MIS size: 31 nodes
+  Prediction value: 96.00
+  Ground truth value: 99.00
+  Value ratio: 0.9697
+
+Graph 93/200: Original size: 244 nodes, 379 edges
+Prediction results:
+  MIS size: 47 nodes
+  Prediction value: 125.00
+  Ground truth value: 129.00
+  Value ratio: 0.9690
+
+Graph 94/200: Original size: 294 nodes, 605 edges
+Prediction results:
+  MIS size: 84 nodes
+  Prediction value: 132.00
+  Ground truth value: 141.00
+  Value ratio: 0.9362
+
+Graph 95/200: Original size: 149 nodes, 230 edges
+Prediction results:
+  MIS size: 36 nodes
+  Prediction value: 77.00
+  Ground truth value: 79.00
+  Value ratio: 0.9747
+
+Graph 96/200: Original size: 228 nodes, 449 edges
+Prediction results:
+  MIS size: 55 nodes
+  Prediction value: 98.00
+  Ground truth value: 111.00
+  Value ratio: 0.8829
+
+Graph 97/200: Original size: 202 nodes, 218 edges
+Prediction results:
+  MIS size: 34 nodes
+  Prediction value: 110.00
+  Ground truth value: 117.00
+  Value ratio: 0.9402
+
+Graph 98/200: Original size: 247 nodes, 363 edges
+Prediction results:
+  MIS size: 59 nodes
+  Prediction value: 125.00
+  Ground truth value: 133.00
+  Value ratio: 0.9398
+
+Graph 99/200: Original size: 275 nodes, 476 edges
+Prediction results:
+  MIS size: 54 nodes
+  Prediction value: 129.00
+  Ground truth value: 139.00
+  Value ratio: 0.9281
+
+Graph 100/200: Original size: 255 nodes, 435 edges
+Prediction results:
+  MIS size: 53 nodes
+  Prediction value: 118.00
+  Ground truth value: 125.00
+  Value ratio: 0.9440
+
+Graph 101/200: Original size: 124 nodes, 178 edges
+Prediction results:
+  MIS size: 23 nodes
+  Prediction value: 64.00
+  Ground truth value: 67.00
+  Value ratio: 0.9552
+
+Graph 102/200: Original size: 287 nodes, 436 edges
+Prediction results:
+  MIS size: 55 nodes
+  Prediction value: 149.00
+  Ground truth value: 154.00
+  Value ratio: 0.9675
+
+Graph 103/200: Original size: 182 nodes, 212 edges
+Prediction results:
+  MIS size: 31 nodes
+  Prediction value: 102.00
+  Ground truth value: 104.00
+  Value ratio: 0.9808
+
+Graph 104/200: Original size: 131 nodes, 271 edges
+Prediction results:
+  MIS size: 37 nodes
+  Prediction value: 57.00
+  Ground truth value: 59.00
+  Value ratio: 0.9661
+
+Graph 105/200: Original size: 234 nodes, 370 edges
+Prediction results:
+  MIS size: 53 nodes
+  Prediction value: 115.00
+  Ground truth value: 123.00
+  Value ratio: 0.9350
+
+Graph 106/200: Original size: 222 nodes, 607 edges
+Prediction results:
+  MIS size: 72 nodes
+  Prediction value: 86.00
+  Ground truth value: 94.00
+  Value ratio: 0.9149
+
+Graph 107/200: Original size: 289 nodes, 588 edges
+Prediction results:
+  MIS size: 77 nodes
+  Prediction value: 125.00
+  Ground truth value: 132.00
+  Value ratio: 0.9470
+
+Graph 108/200: Original size: 273 nodes, 489 edges
+Prediction results:
+  MIS size: 61 nodes
+  Prediction value: 125.00
+  Ground truth value: 135.00
+  Value ratio: 0.9259
+
+Graph 109/200: Original size: 125 nodes, 161 edges
+Prediction results:
+  MIS size: 20 nodes
+  Prediction value: 69.00
+  Ground truth value: 70.00
+  Value ratio: 0.9857
+
+Graph 110/200: Original size: 201 nodes, 315 edges
+Prediction results:
+  MIS size: 37 nodes
+  Prediction value: 98.00
+  Ground truth value: 103.00
+  Value ratio: 0.9515
+
+Graph 111/200: Original size: 209 nodes, 357 edges
+Prediction results:
+  MIS size: 48 nodes
+  Prediction value: 98.00
+  Ground truth value: 105.00
+  Value ratio: 0.9333
+
+Graph 112/200: Original size: 205 nodes, 309 edges
+Prediction results:
+  MIS size: 48 nodes
+  Prediction value: 106.00
+  Ground truth value: 111.00
+  Value ratio: 0.9550
+
+Graph 113/200: Original size: 220 nodes, 338 edges
+Prediction results:
+  MIS size: 43 nodes
+  Prediction value: 115.00
+  Ground truth value: 119.00
+  Value ratio: 0.9664
+
+Graph 114/200: Original size: 255 nodes, 322 edges
+Prediction results:
+  MIS size: 46 nodes
+  Prediction value: 140.00
+  Ground truth value: 144.00
+  Value ratio: 0.9722
+
+Graph 115/200: Original size: 198 nodes, 300 edges
+Prediction results:
+  MIS size: 39 nodes
+  Prediction value: 101.00
+  Ground truth value: 103.00
+  Value ratio: 0.9806
+
+Graph 116/200: Original size: 227 nodes, 310 edges
+Prediction results:
+  MIS size: 48 nodes
+  Prediction value: 120.00
+  Ground truth value: 124.00
+  Value ratio: 0.9677
+
+Graph 117/200: Original size: 205 nodes, 431 edges
+Prediction results:
+  MIS size: 57 nodes
+  Prediction value: 89.00
+  Ground truth value: 93.00
+  Value ratio: 0.9570
+
+Graph 118/200: Original size: 165 nodes, 349 edges
+Prediction results:
+  MIS size: 51 nodes
+  Prediction value: 73.00
+  Ground truth value: 77.00
+  Value ratio: 0.9481
+
+Graph 119/200: Original size: 205 nodes, 339 edges
+Prediction results:
+  MIS size: 41 nodes
+  Prediction value: 101.00
+  Ground truth value: 105.00
+  Value ratio: 0.9619
+
+Graph 120/200: Original size: 251 nodes, 305 edges
+Prediction results:
+  MIS size: 42 nodes
+  Prediction value: 135.00
+  Ground truth value: 140.00
+  Value ratio: 0.9643
+
+Graph 121/200: Original size: 165 nodes, 229 edges
+Prediction results:
+  MIS size: 31 nodes
+  Prediction value: 85.00
+  Ground truth value: 88.00
+  Value ratio: 0.9659
+
+Graph 122/200: Original size: 195 nodes, 319 edges
+Prediction results:
+  MIS size: 46 nodes
+  Prediction value: 98.00
+  Ground truth value: 101.00
+  Value ratio: 0.9703
+
+Graph 123/200: Original size: 137 nodes, 87 edges
+Prediction results:
+  MIS size: 50 nodes
+  Prediction value: 83.00
+  Ground truth value: 92.00
+  Value ratio: 0.9022
+
+Graph 124/200: Original size: 223 nodes, 460 edges
+Prediction results:
+  MIS size: 61 nodes
+  Prediction value: 104.00
+  Ground truth value: 105.00
+  Value ratio: 0.9905
+
+Graph 125/200: Original size: 261 nodes, 361 edges
+Prediction results:
+  MIS size: 52 nodes
+  Prediction value: 139.00
+  Ground truth value: 143.00
+  Value ratio: 0.9720
+
+Graph 126/200: Original size: 258 nodes, 428 edges
+Prediction results:
+  MIS size: 61 nodes
+  Prediction value: 123.00
+  Ground truth value: 130.00
+  Value ratio: 0.9462
+
+Graph 127/200: Original size: 140 nodes, 95 edges
+Prediction results:
+  MIS size: 49 nodes
+  Prediction value: 88.00
+  Ground truth value: 93.00
+  Value ratio: 0.9462
+
+Graph 128/200: Original size: 105 nodes, 119 edges
+Prediction results:
+  MIS size: 17 nodes
+  Prediction value: 56.00
+  Ground truth value: 59.00
+  Value ratio: 0.9492
+
+Graph 129/200: Original size: 283 nodes, 402 edges
+Prediction results:
+  MIS size: 64 nodes
+  Prediction value: 144.00
+  Ground truth value: 149.00
+  Value ratio: 0.9664
+
+Graph 130/200: Original size: 201 nodes, 297 edges
+Prediction results:
+  MIS size: 36 nodes
+  Prediction value: 105.00
+  Ground truth value: 109.00
+  Value ratio: 0.9633
+
+Graph 131/200: Original size: 284 nodes, 466 edges
+Prediction results:
+  MIS size: 62 nodes
+  Prediction value: 139.00
+  Ground truth value: 149.00
+  Value ratio: 0.9329
+
+Graph 132/200: Original size: 298 nodes, 625 edges
+Prediction results:
+  MIS size: 80 nodes
+  Prediction value: 128.00
+  Ground truth value: 139.00
+  Value ratio: 0.9209
+
+Graph 133/200: Original size: 151 nodes, 146 edges
+Prediction results:
+  MIS size: 34 nodes
+  Prediction value: 90.00
+  Ground truth value: 92.00
+  Value ratio: 0.9783
+
+Graph 134/200: Original size: 170 nodes, 384 edges
+Prediction results:
+  MIS size: 43 nodes
+  Prediction value: 71.00
+  Ground truth value: 78.00
+  Value ratio: 0.9103
+
+Graph 135/200: Original size: 275 nodes, 540 edges
+Prediction results:
+  MIS size: 73 nodes
+  Prediction value: 117.00
+  Ground truth value: 130.00
+  Value ratio: 0.9000
+
+Graph 136/200: Original size: 294 nodes, 641 edges
+Prediction results:
+  MIS size: 81 nodes
+  Prediction value: 124.00
+  Ground truth value: 135.00
+  Value ratio: 0.9185
+
+Graph 137/200: Original size: 276 nodes, 432 edges
+Prediction results:
+  MIS size: 61 nodes
+  Prediction value: 135.00
+  Ground truth value: 141.00
+  Value ratio: 0.9574
+
+Graph 138/200: Original size: 287 nodes, 545 edges
+Prediction results:
+  MIS size: 69 nodes
+  Prediction value: 130.00
+  Ground truth value: 137.00
+  Value ratio: 0.9489
+
+Graph 139/200: Original size: 118 nodes, 242 edges
+Prediction results:
+  MIS size: 40 nodes
+  Prediction value: 51.00
+  Ground truth value: 54.00
+  Value ratio: 0.9444
+
+Graph 140/200: Original size: 137 nodes, 286 edges
+Prediction results:
+  MIS size: 34 nodes
+  Prediction value: 61.00
+  Ground truth value: 63.00
+  Value ratio: 0.9683
+
+Graph 141/200: Original size: 148 nodes, 184 edges
+Prediction results:
+  MIS size: 35 nodes
+  Prediction value: 83.00
+  Ground truth value: 85.00
+  Value ratio: 0.9765
+
+Graph 142/200: Original size: 211 nodes, 325 edges
+Prediction results:
+  MIS size: 45 nodes
+  Prediction value: 109.00
+  Ground truth value: 110.00
+  Value ratio: 0.9909
+
+Graph 143/200: Original size: 104 nodes, 145 edges
+Prediction results:
+  MIS size: 22 nodes
+  Prediction value: 55.00
+  Ground truth value: 56.00
+  Value ratio: 0.9821
+
+Graph 144/200: Original size: 195 nodes, 257 edges
+Prediction results:
+  MIS size: 39 nodes
+  Prediction value: 105.00
+  Ground truth value: 108.00
+  Value ratio: 0.9722
+
+Graph 145/200: Original size: 189 nodes, 305 edges
+Prediction results:
+  MIS size: 40 nodes
+  Prediction value: 91.00
+  Ground truth value: 97.00
+  Value ratio: 0.9381
+
+Graph 146/200: Original size: 289 nodes, 521 edges
+Prediction results:
+  MIS size: 72 nodes
+  Prediction value: 134.00
+  Ground truth value: 139.00
+  Value ratio: 0.9640
+
+Graph 147/200: Original size: 280 nodes, 611 edges
+Prediction results:
+  MIS size: 74 nodes
+  Prediction value: 122.00
+  Ground truth value: 129.00
+  Value ratio: 0.9457
+
+Graph 148/200: Original size: 122 nodes, 202 edges
+Prediction results:
+  MIS size: 26 nodes
+  Prediction value: 58.00
+  Ground truth value: 59.00
+  Value ratio: 0.9831
+
+Graph 149/200: Original size: 169 nodes, 369 edges
+Prediction results:
+  MIS size: 49 nodes
+  Prediction value: 77.00
+  Ground truth value: 82.00
+  Value ratio: 0.9390
+
+Graph 150/200: Original size: 129 nodes, 106 edges
+Prediction results:
+  MIS size: 38 nodes
+  Prediction value: 80.00
+  Ground truth value: 86.00
+  Value ratio: 0.9302
+
+Graph 151/200: Original size: 119 nodes, 196 edges
+Prediction results:
+  MIS size: 30 nodes
+  Prediction value: 57.00
+  Ground truth value: 59.00
+  Value ratio: 0.9661
+
+Graph 152/200: Original size: 184 nodes, 205 edges
+Prediction results:
+  MIS size: 44 nodes
+  Prediction value: 109.00
+  Ground truth value: 111.00
+  Value ratio: 0.9820
+
+Graph 153/200: Original size: 179 nodes, 148 edges
+Prediction results:
+  MIS size: 53 nodes
+  Prediction value: 110.00
+  Ground truth value: 114.00
+  Value ratio: 0.9649
+
+Graph 154/200: Original size: 286 nodes, 654 edges
+Prediction results:
+  MIS size: 82 nodes
+  Prediction value: 116.00
+  Ground truth value: 128.00
+  Value ratio: 0.9062
+
+Graph 155/200: Original size: 280 nodes, 479 edges
+Prediction results:
+  MIS size: 62 nodes
+  Prediction value: 131.00
+  Ground truth value: 138.00
+  Value ratio: 0.9493
+
+Graph 156/200: Original size: 169 nodes, 184 edges
+Prediction results:
+  MIS size: 32 nodes
+  Prediction value: 93.00
+  Ground truth value: 100.00
+  Value ratio: 0.9300
+
+Graph 157/200: Original size: 229 nodes, 363 edges
+Prediction results:
+  MIS size: 46 nodes
+  Prediction value: 114.00
+  Ground truth value: 118.00
+  Value ratio: 0.9661
+
+Graph 158/200: Original size: 214 nodes, 327 edges
+Prediction results:
+  MIS size: 43 nodes
+  Prediction value: 106.00
+  Ground truth value: 107.00
+  Value ratio: 0.9907
+
+Graph 159/200: Original size: 244 nodes, 439 edges
+Prediction results:
+  MIS size: 58 nodes
+  Prediction value: 113.00
+  Ground truth value: 120.00
+  Value ratio: 0.9417
+
+Graph 160/200: Original size: 243 nodes, 288 edges
+Prediction results:
+  MIS size: 42 nodes
+  Prediction value: 134.00
+  Ground truth value: 141.00
+  Value ratio: 0.9504
+
+Graph 161/200: Original size: 170 nodes, 204 edges
+Prediction results:
+  MIS size: 29 nodes
+  Prediction value: 92.00
+  Ground truth value: 96.00
+  Value ratio: 0.9583
+
+Graph 162/200: Original size: 296 nodes, 533 edges
+Prediction results:
+  MIS size: 77 nodes
+  Prediction value: 137.00
+  Ground truth value: 145.00
+  Value ratio: 0.9448
+
+Graph 163/200: Original size: 287 nodes, 556 edges
+Prediction results:
+  MIS size: 71 nodes
+  Prediction value: 131.00
+  Ground truth value: 135.00
+  Value ratio: 0.9704
+
+Graph 164/200: Original size: 193 nodes, 246 edges
+Prediction results:
+  MIS size: 37 nodes
+  Prediction value: 102.00
+  Ground truth value: 106.00
+  Value ratio: 0.9623
+
+Graph 165/200: Original size: 121 nodes, 200 edges
+Prediction results:
+  MIS size: 27 nodes
+  Prediction value: 61.00
+  Ground truth value: 64.00
+  Value ratio: 0.9531
+
+Graph 166/200: Original size: 191 nodes, 195 edges
+Prediction results:
+  MIS size: 36 nodes
+  Prediction value: 113.00
+  Ground truth value: 120.00
+  Value ratio: 0.9417
+
+Graph 167/200: Original size: 267 nodes, 430 edges
+Prediction results:
+  MIS size: 54 nodes
+  Prediction value: 130.00
+  Ground truth value: 135.00
+  Value ratio: 0.9630
+
+Graph 168/200: Original size: 297 nodes, 621 edges
+Prediction results:
+  MIS size: 79 nodes
+  Prediction value: 127.00
+  Ground truth value: 139.00
+  Value ratio: 0.9137
+
+Graph 169/200: Original size: 159 nodes, 219 edges
+Prediction results:
+  MIS size: 29 nodes
+  Prediction value: 84.00
+  Ground truth value: 88.00
+  Value ratio: 0.9545
+
+Graph 170/200: Original size: 100 nodes, 133 edges
+Prediction results:
+  MIS size: 20 nodes
+  Prediction value: 58.00
+  Ground truth value: 58.00
+  Value ratio: 1.0000
+
+Graph 171/200: Original size: 210 nodes, 469 edges
+Prediction results:
+  MIS size: 56 nodes
+  Prediction value: 96.00
+  Ground truth value: 97.00
+  Value ratio: 0.9897
+
+Graph 172/200: Original size: 291 nodes, 451 edges
+Prediction results:
+  MIS size: 57 nodes
+  Prediction value: 145.00
+  Ground truth value: 154.00
+  Value ratio: 0.9416
+
+Graph 173/200: Original size: 244 nodes, 311 edges
+Prediction results:
+  MIS size: 52 nodes
+  Prediction value: 130.00
+  Ground truth value: 134.00
+  Value ratio: 0.9701
+
+Graph 174/200: Original size: 193 nodes, 289 edges
+Prediction results:
+  MIS size: 45 nodes
+  Prediction value: 101.00
+  Ground truth value: 103.00
+  Value ratio: 0.9806
+
+Graph 175/200: Original size: 206 nodes, 222 edges
+Prediction results:
+  MIS size: 47 nodes
+  Prediction value: 118.00
+  Ground truth value: 125.00
+  Value ratio: 0.9440
+
+Graph 176/200: Original size: 182 nodes, 224 edges
+Prediction results:
+  MIS size: 37 nodes
+  Prediction value: 101.00
+  Ground truth value: 105.00
+  Value ratio: 0.9619
+
+Graph 177/200: Original size: 166 nodes, 311 edges
+Prediction results:
+  MIS size: 42 nodes
+  Prediction value: 80.00
+  Ground truth value: 81.00
+  Value ratio: 0.9877
+
+Graph 178/200: Original size: 147 nodes, 128 edges
+Prediction results:
+  MIS size: 37 nodes
+  Prediction value: 87.00
+  Ground truth value: 90.00
+  Value ratio: 0.9667
+
+Graph 179/200: Original size: 294 nodes, 443 edges
+Prediction results:
+  MIS size: 53 nodes
+  Prediction value: 148.00
+  Ground truth value: 155.00
+  Value ratio: 0.9548
+
+Graph 180/200: Original size: 239 nodes, 324 edges
+Prediction results:
+  MIS size: 55 nodes
+  Prediction value: 124.00
+  Ground truth value: 129.00
+  Value ratio: 0.9612
+
+Graph 181/200: Original size: 198 nodes, 280 edges
+Prediction results:
+  MIS size: 46 nodes
+  Prediction value: 101.00
+  Ground truth value: 107.00
+  Value ratio: 0.9439
+
+Graph 182/200: Original size: 240 nodes, 404 edges
+Prediction results:
+  MIS size: 49 nodes
+  Prediction value: 112.00
+  Ground truth value: 123.00
+  Value ratio: 0.9106
+
+Graph 183/200: Original size: 252 nodes, 487 edges
+Prediction results:
+  MIS size: 57 nodes
+  Prediction value: 116.00
+  Ground truth value: 125.00
+  Value ratio: 0.9280
+
+Graph 184/200: Original size: 133 nodes, 187 edges
+Prediction results:
+  MIS size: 23 nodes
+  Prediction value: 69.00
+  Ground truth value: 73.00
+  Value ratio: 0.9452
+
+Graph 185/200: Original size: 126 nodes, 338 edges
+Prediction results:
+  MIS size: 39 nodes
+  Prediction value: 47.00
+  Ground truth value: 50.00
+  Value ratio: 0.9400
+
+Graph 186/200: Original size: 272 nodes, 553 edges
+Prediction results:
+  MIS size: 67 nodes
+  Prediction value: 118.00
+  Ground truth value: 128.00
+  Value ratio: 0.9219
+
+Graph 187/200: Original size: 174 nodes, 327 edges
+Prediction results:
+  MIS size: 41 nodes
+  Prediction value: 83.00
+  Ground truth value: 88.00
+  Value ratio: 0.9432
+
+Graph 188/200: Original size: 201 nodes, 248 edges
+Prediction results:
+  MIS size: 29 nodes
+  Prediction value: 105.00
+  Ground truth value: 109.00
+  Value ratio: 0.9633
+
+Graph 189/200: Original size: 188 nodes, 189 edges
+Prediction results:
+  MIS size: 35 nodes
+  Prediction value: 106.00
+  Ground truth value: 111.00
+  Value ratio: 0.9550
+
+Graph 190/200: Original size: 160 nodes, 249 edges
+Prediction results:
+  MIS size: 39 nodes
+  Prediction value: 81.00
+  Ground truth value: 84.00
+  Value ratio: 0.9643
+
+Graph 191/200: Original size: 282 nodes, 450 edges
+Prediction results:
+  MIS size: 59 nodes
+  Prediction value: 142.00
+  Ground truth value: 149.00
+  Value ratio: 0.9530
+
+Graph 192/200: Original size: 126 nodes, 194 edges
+Prediction results:
+  MIS size: 27 nodes
+  Prediction value: 64.00
+  Ground truth value: 65.00
+  Value ratio: 0.9846
+
+Graph 193/200: Original size: 209 nodes, 241 edges
+Prediction results:
+  MIS size: 46 nodes
+  Prediction value: 117.00
+  Ground truth value: 122.00
+  Value ratio: 0.9590
+
+Graph 194/200: Original size: 163 nodes, 339 edges
+Prediction results:
+  MIS size: 46 nodes
+  Prediction value: 76.00
+  Ground truth value: 78.00
+  Value ratio: 0.9744
+
+Graph 195/200: Original size: 225 nodes, 383 edges
+Prediction results:
+  MIS size: 49 nodes
+  Prediction value: 107.00
+  Ground truth value: 113.00
+  Value ratio: 0.9469
+
+Graph 196/200: Original size: 147 nodes, 100 edges
+Prediction results:
+  MIS size: 54 nodes
+  Prediction value: 94.00
+  Ground truth value: 100.00
+  Value ratio: 0.9400
+
+Graph 197/200: Original size: 213 nodes, 429 edges
+Prediction results:
+  MIS size: 54 nodes
+  Prediction value: 92.00
+  Ground truth value: 98.00
+  Value ratio: 0.9388
+
+Graph 198/200: Original size: 176 nodes, 165 edges
+Prediction results:
+  MIS size: 36 nodes
+  Prediction value: 105.00
+  Ground truth value: 109.00
+  Value ratio: 0.9633
+
+Graph 199/200: Original size: 275 nodes, 491 edges
+Prediction results:
+  MIS size: 71 nodes
+  Prediction value: 129.00
+  Ground truth value: 135.00
+  Value ratio: 0.9556
+
+Graph 200/200: Original size: 234 nodes, 433 edges
+Prediction results:
+  MIS size: 64 nodes
+  Prediction value: 105.00
+  Ground truth value: 114.00
+  Value ratio: 0.9211
+
+Overall Results:
+Total Value Ratio (predicted/gt): 0.9534
+Saved evaluation results to model_parameters/test_results.pickle
+All done!

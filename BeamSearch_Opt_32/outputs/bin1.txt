@@ -1,0 +1,284 @@
+ Starting binary search graph processing...
+
+Processing graph 1/71: games120
+  - Total execution time: 150.93 seconds
+  - Minimum colors required: 9
+
+Processing graph 2/71: inithx.i.1.col
+  - Total execution time: 883.53 seconds
+  - Minimum colors required: 54
+
+Processing graph 3/71: DSJC1000.1
+  - Total execution time: 904.49 seconds
+  - Minimum colors required: 25
+
+Processing graph 4/71: fpsol2.i.1.col
+  - Total execution time: 189.17 seconds
+  - Minimum colors required: 65
+
+Processing graph 5/71: fpsol2.i.3.col
+  - Total execution time: 554.28 seconds
+  - Minimum colors required: 30
+
+Processing graph 6/71: inithx.i.3.col
+  - Total execution time: 1337.03 seconds
+  - Minimum colors required: 31
+
+Processing graph 7/71: queen13_13
+  - Total execution time: 342.60 seconds
+  - Minimum colors required: 15
+
+Processing graph 8/71: inithx.i.2.col
+  - Total execution time: 2051.06 seconds
+  - Minimum colors required: 31
+
+Processing graph 9/71: fpsol2.i.2.col
+  - Total execution time: 556.92 seconds
+  - Minimum colors required: 31
+
+Processing graph 10/71: queen5_5
+  - Total execution time: 0.74 seconds
+  - Minimum colors required: 5
+
+Processing graph 11/71: queen7_7
+  - Total execution time: 18.58 seconds
+  - Minimum colors required: 7
+
+Processing graph 12/71: zeroin.i.1.col
+  - Total execution time: 40.14 seconds
+  - Minimum colors required: 49
+
+Processing graph 13/71: DSJR500.5
+  - Total execution time: 1958.48 seconds
+  - Minimum colors required: 145
+
+Processing graph 14/71: queen9_9
+  - Total execution time: 110.99 seconds
+  - Minimum colors required: 10
+
+Processing graph 15/71: DSJC500.9
+  - Total execution time: 188.71 seconds
+  - Minimum colors required: 144
+
+Processing graph 16/71: DSJC1000.5
+  - Total execution time: 4050.74 seconds
+  - Minimum colors required: 94
+
+Processing graph 17/71: queen11_11
+  - Total execution time: 296.89 seconds
+  - Minimum colors required: 13
+
+Processing graph 18/71: zeroin.i.2.col
+  - Total execution time: 92.09 seconds
+  - Minimum colors required: 30
+
+Processing graph 19/71: zeroin.i.3.col
+  - Total execution time: 94.79 seconds
+  - Minimum colors required: 30
+
+Processing graph 20/71: DSJC250.9
+  - Total execution time: 37.52 seconds
+  - Minimum colors required: 83
+
+Processing graph 21/71: homer
+  - Total execution time: 205.23 seconds
+  - Minimum colors required: 13
+
+Processing graph 22/71: myciel5
+  - Total execution time: 0.23 seconds
+  - Minimum colors required: 6
+
+Processing graph 23/71: myciel4
+  - Total execution time: 0.09 seconds
+  - Minimum colors required: 5
+
+Processing graph 24/71: DSJC125.5
+  - Total execution time: 258.80 seconds
+  - Minimum colors required: 20
+
+Processing graph 25/71: mulsol.i.1.col
+  - Total execution time: 21.85 seconds
+  - Minimum colors required: 49
+
+Processing graph 26/71: le450_5d
+  - Total execution time: 721.02 seconds
+  - Minimum colors required: 5
+
+Processing graph 27/71: school1_nsh
+  - Total execution time: 10510.81 seconds
+  - Minimum colors required: 20
+
+Processing graph 28/71: mulsol.i.3.col
+  - Total execution time: 9105.58 seconds
+  - Minimum colors required: 31
+
+Processing graph 29/71: school1
+  - Total execution time: 22438.17 seconds
+  - Minimum colors required: 18
+
+Processing graph 30/71: myciel6
+  - Total execution time: 1.64 seconds
+  - Minimum colors required: 7
+
+Processing graph 31/71: myciel7
+  - Total execution time: 5.15 seconds
+  - Minimum colors required: 8
+
+Processing graph 32/71: mulsol.i.2.col
+  - Total execution time: 73.69 seconds
+  - Minimum colors required: 31
+
+Processing graph 33/71: le450_5c
+  - Total execution time: 1167.81 seconds
+  - Minimum colors required: 5
+
+Processing graph 34/71: queen15_15
+  - Total execution time: 476.35 seconds
+  - Minimum colors required: 17
+
+Processing graph 35/71: myciel3
+  - Total execution time: 0.02 seconds
+  - Minimum colors required: 4
+
+Processing graph 36/71: DSJR500.1c
+  - Total execution time: 95.69 seconds
+  - Minimum colors required: 101
+
+Processing graph 37/71: miles500
+  - Total execution time: 100.09 seconds
+  - Minimum colors required: 20
+
+Processing graph 38/71: le450_5b
+  - Total execution time: 330.16 seconds
+  - Minimum colors required: 8
+
+Processing graph 39/71: queen8_8
+  - Total execution time: 74.16 seconds
+  - Minimum colors required: 10
+
+Processing graph 40/71: mulsol.i.5.col
+  - Total execution time: 71.83 seconds
+  - Minimum colors required: 31
+
+Processing graph 41/71: DSJC125.1
+  - Total execution time: 121.04 seconds
+  - Minimum colors required: 6
+
+Processing graph 42/71: queen8_12
+  - Total execution time: 208.74 seconds
+  - Minimum colors required: 13
+
+Processing graph 43/71: mulsol.i.4.col
+  - Total execution time: 75.50 seconds
+  - Minimum colors required: 31
+
+Processing graph 44/71: le450_5a
+  - Total execution time: 463.61 seconds
+  - Minimum colors required: 8
+
+Processing graph 45/71: queen6_6
+  - Total execution time: 5.51 seconds
+  - Minimum colors required: 9
+
+Processing graph 46/71: huck
+  - Total execution time: 25.00 seconds
+  - Minimum colors required: 11
+
+Processing graph 47/71: le450_15c
+  - Total execution time: 646.74 seconds
+  - Minimum colors required: 26
+
+Processing graph 48/71: david
+  - Total execution time: 24.14 seconds
+  - Minimum colors required: 11
+
+Processing graph 49/71: le450_15b
+  - Total execution time: 514.49 seconds
+  - Minimum colors required: 19
+
+Processing graph 50/71: queen12_12
+  - Total execution time: 261.02 seconds
+  - Minimum colors required: 14
+
+Processing graph 51/71: anna
+  - Total execution time: 34.10 seconds
+  - Minimum colors required: 11
+
+Processing graph 52/71: DSJC250.1
+  - Total execution time: 152.43 seconds
+  - Minimum colors required: 10
+
+Processing graph 53/71: miles1000
+  - Total execution time: 82.76 seconds
+  - Minimum colors required: 43
+
+Processing graph 54/71: le450_15a
+  - Total execution time: 420.18 seconds
+  - Minimum colors required: 19
+
+Processing graph 55/71: queen10_10
+  - Total execution time: 193.44 seconds
+  - Minimum colors required: 11
+
+Processing graph 56/71: le450_15d
+  - Total execution time: 766.45 seconds
+  - Minimum colors required: 26
+
+Processing graph 57/71: DSJC250.5
+  - Total execution time: 695.48 seconds
+  - Minimum colors required: 32
+
+Processing graph 58/71: DSJC125.9
+  - Total execution time: 5.94 seconds
+  - Minimum colors required: 47
+
+Processing graph 59/71: miles250
+  - Total execution time: 63.77 seconds
+  - Minimum colors required: 8
+
+Processing graph 60/71: DSJC1000.9
+  - Total execution time: 1487.02 seconds
+  - Minimum colors required: 254
+
+Processing graph 61/71: jean
+  - Total execution time: 19.13 seconds
+  - Minimum colors required: 10
+
+Processing graph 62/71: le450_25b
+  - Total execution time: 623.32 seconds
+  - Minimum colors required: 27
+
+Processing graph 63/71: le450_25c
+  - Total execution time: 852.58 seconds
+  - Minimum colors required: 32
+
+Processing graph 64/71: miles750
+  - Total execution time: 90.44 seconds
+  - Minimum colors required: 32
+
+Processing graph 65/71: le450_25a
+  - Total execution time: 559.84 seconds
+  - Minimum colors required: 28
+
+Processing graph 66/71: latin_square_10
+  - Total execution time: 3213.94 seconds
+  - Minimum colors required: 115
+
+Processing graph 67/71: DSJC500.5  - Total execution time: 4002.25 seconds
+  - Minimum colors required: 54
+
+Processing graph 68/71: queen16_16
+  - Total execution time: 511.03 seconds
+  - Minimum colors required: 18
+
+Processing graph 69/71: le450_25d
+  - Total execution time: 840.97 seconds
+  - Minimum colors required: 32
+
+Processing graph 70/71: miles1500
+  - Total execution time: 5.08 seconds
+  - Minimum colors required: 73
+
+Processing graph 71/71: queen14_14
+  - Total execution time: 310.77 seconds
+  - Minimum colors required: 16

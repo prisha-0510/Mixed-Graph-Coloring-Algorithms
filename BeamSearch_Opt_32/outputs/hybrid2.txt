@@ -1,0 +1,782 @@
+Mis predict time = 120
+Graph 1/71: games120
+  - Nodes: 120
+  - Edges: 638
+  - Known colors: 9
+  - Reduced nodes: 58 (51.7% reduction)
+  - Reduced edges: 318 (50.2% reduction)
+  - Reduction time: 0.00 seconds
+  - Coloring time: 10.79 seconds
+  - Colors required: 9
+  - Total execution time: 10.80 seconds
+
+Graph 2/71: inithx.i.1.col
+  - Nodes: 519
+  - Edges: 18707
+  - Known colors: 54
+  - Reduced nodes: 515 (0.8% reduction)
+  - Reduced edges: 18145 (3.0% reduction)
+  - Reduction time: 0.06 seconds
+  - Coloring time: 949.08 seconds
+  - Colors required: 55
+  - Total execution time: 949.15 seconds
+
+Graph 3/71: DSJC1000.1
+  - Nodes: 1000
+  - Edges: 49629
+  - Known colors: ?
+  - Reduced nodes: 467 (53.3% reduction)
+  - Reduced edges: 14884 (70.0% reduction)
+  - Reduction time: 0.39 seconds
+  - Coloring time: 107.27 seconds
+  - Colors required: 27
+  - Total execution time: 107.71 seconds
+
+Graph 4/71: fpsol2.i.1.col
+  - Nodes: 269
+  - Edges: 11654
+  - Known colors: 65
+  - Reduced nodes: 267 (0.7% reduction)
+  - Reduced edges: 11389 (2.3% reduction)
+  - Reduction time: 0.03 seconds
+  - Coloring time: 46.18 seconds
+  - Colors required: 65
+  - Total execution time: 46.23 seconds
+
+Graph 5/71: fpsol2.i.3.col
+  - Nodes: 363
+  - Edges: 8688
+  - Known colors: 30
+  - Reduced nodes: 319 (12.1% reduction)
+  - Reduced edges: 7414 (14.7% reduction)
+  - Reduction time: 0.06 seconds
+  - Coloring time: 111.17 seconds
+  - Colors required: 31
+  - Total execution time: 111.24 seconds
+
+Graph 6/71: inithx.i.3.col
+  - Nodes: 559
+  - Edges: 13969
+  - Known colors: 31
+  - Reduced nodes: 527 (5.7% reduction)
+  - Reduced edges: 12889 (7.7% reduction)
+  - Reduction time: 0.12 seconds
+  - Coloring time: 827.13 seconds
+  - Colors required: 31
+  - Total execution time: 827.26 seconds
+
+Graph 7/71: queen13_13
+  - Nodes: 169
+  - Edges: 3328
+  - Known colors: 13
+  - Reduced nodes: 84 (50.3% reduction)
+  - Reduced edges: 1351 (59.4% reduction)
+  - Reduction time: 0.02 seconds
+  - Coloring time: 135.97 seconds
+  - Colors required: 17
+  - Total execution time: 136.00 seconds
+
+Graph 8/71: inithx.i.2.col
+  - Nodes: 558
+  - Edges: 13979
+  - Known colors: 31
+  - Reduced nodes: 526 (5.7% reduction)
+  - Reduced edges: 12900 (7.7% reduction)
+  - Reduction time: 0.13 seconds
+  - Coloring time: 765.99 seconds
+  - Colors required: 32
+  - Total execution time: 766.13 seconds
+
+Graph 9/71: fpsol2.i.2.col
+  - Nodes: 363
+  - Edges: 8691
+  - Known colors: 30
+  - Reduced nodes: 319 (12.1% reduction)
+  - Reduced edges: 7417 (14.7% reduction)
+  - Reduction time: 0.06 seconds
+  - Coloring time: 43.67 seconds
+  - Colors required: 31
+  - Total execution time: 43.74 seconds
+
+Graph 10/71: queen5_5
+  - Nodes: 25
+  - Edges: 160
+  - Known colors: 5
+  - Reduced nodes: 12 (52.0% reduction)
+  - Reduced edges: 52 (67.5% reduction)
+  - Reduction time: 0.00 seconds
+  - Coloring time: 0.05 seconds
+  - Colors required: 7
+  - Total execution time: 0.05 seconds
+
+Graph 11/71: queen7_7
+  - Nodes: 49
+  - Edges: 476
+  - Known colors: 7
+  - Reduced nodes: 23 (53.1% reduction)
+  - Reduced edges: 177 (62.8% reduction)
+  - Reduction time: 0.00 seconds
+  - Coloring time: 0.08 seconds
+  - Colors required: 11
+  - Total execution time: 0.09 seconds
+
+Graph 12/71: zeroin.i.1.col
+  - Nodes: 126
+  - Edges: 4100
+  - Known colors: 49
+  - Reduced nodes: 124 (1.6% reduction)
+  - Reduced edges: 4055 (1.1% reduction)
+  - Reduction time: 0.01 seconds
+  - Coloring time: 8.64 seconds
+  - Colors required: 49
+  - Total execution time: 8.65 seconds
+
+Graph 13/71: DSJR500.5
+  - Nodes: 500
+  - Edges: 58862
+  - Known colors: ?
+  - Reduced nodes: 461 (7.8% reduction)
+  - Reduced edges: 54767 (7.0% reduction)
+  - Reduction time: 0.27 seconds
+  - Coloring time: 198.05 seconds
+  - Colors required: 150
+  - Total execution time: 198.37 seconds
+
+Graph 14/71: queen9_9
+  - Nodes: 81
+  - Edges: 1056
+  - Known colors: 10
+  - Reduced nodes: 40 (50.6% reduction)
+  - Reduced edges: 412 (61.0% reduction)
+  - Reduction time: 0.01 seconds
+  - Coloring time: 1.64 seconds
+  - Colors required: 13
+  - Total execution time: 1.65 seconds
+
+Graph 15/71: DSJC500.9
+  - Nodes: 500
+  - Edges: 112437
+  - Known colors: ?
+  - Reduced nodes: 487 (2.6% reduction)
+  - Reduced edges: 106980 (4.9% reduction)
+  - Reduction time: 0.43 seconds
+  - Coloring time: 16.75 seconds
+  - Colors required: 151
+  - Total execution time: 17.29 seconds
+
+Graph 16/71: DSJC1000.5
+  - Nodes: 1000
+  - Edges: 249826
+  - Known colors: ?
+  - Reduced nodes: 890 (11.0% reduction)
+  - Reduced edges: 202285 (19.0% reduction)
+  - Reduction time: 1.37 seconds
+  - Coloring time: 365.46 seconds
+  - Colors required: 100
+  - Total execution time: 367.09 seconds
+
+Graph 17/71: queen11_11
+  - Nodes: 121
+  - Edges: 1980
+  - Known colors: 11
+  - Reduced nodes: 59 (51.2% reduction)
+  - Reduced edges: 785 (60.4% reduction)
+  - Reduction time: 0.02 seconds
+  - Coloring time: 11.72 seconds
+  - Colors required: 15
+  - Total execution time: 11.75 seconds
+
+Graph 18/71: zeroin.i.2.col
+  - Nodes: 157
+  - Edges: 3541
+  - Known colors: 30
+  - Reduced nodes: 134 (14.6% reduction)
+  - Reduced edges: 3034 (14.3% reduction)
+  - Reduction time: 0.02 seconds
+  - Coloring time: 14.69 seconds
+  - Colors required: 31
+  - Total execution time: 14.71 seconds
+
+Graph 19/71: zeroin.i.3.col
+  - Nodes: 157
+  - Edges: 3540
+  - Known colors: 30
+  - Reduced nodes: 134 (14.6% reduction)
+  - Reduced edges: 3033 (14.3% reduction)
+  - Reduction time: 0.02 seconds
+  - Coloring time: 14.49 seconds
+  - Colors required: 31
+  - Total execution time: 14.51 seconds
+
+Graph 20/71: DSJC250.9
+  - Nodes: 250
+  - Edges: 27897
+  - Known colors: ?
+  - Reduced nodes: 239 (4.4% reduction)
+  - Reduced edges: 25602 (8.2% reduction)
+  - Reduction time: 0.10 seconds
+  - Coloring time: 3.32 seconds
+  - Colors required: 84
+  - Total execution time: 3.44 seconds
+
+Graph 21/71: homer
+  - Nodes: 556
+  - Edges: 1629
+  - Known colors: 13
+  - Reduced nodes: 185 (66.7% reduction)
+  - Reduced edges: 986 (39.5% reduction)
+  - Reduction time: 0.01 seconds
+  - Coloring time: 28.43 seconds
+  - Colors required: 13
+  - Total execution time: 28.44 seconds
+
+Graph 22/71: myciel5
+  - Nodes: 47
+  - Edges: 236
+  - Known colors: 6
+  - Reduced nodes: 22 (53.2% reduction)
+  - Reduced edges: 74 (68.6% reduction)
+  - Reduction time: 0.00 seconds
+  - Coloring time: 0.03 seconds
+  - Colors required: 6
+  - Total execution time: 0.03 seconds
+
+Graph 23/71: myciel4
+  - Nodes: 23
+  - Edges: 71
+  - Known colors: 5
+  - Reduced nodes: 11 (52.2% reduction)
+  - Reduced edges: 25 (64.8% reduction)
+  - Reduction time: 0.00 seconds
+  - Coloring time: 0.01 seconds
+  - Colors required: 5
+  - Total execution time: 0.01 seconds
+
+Graph 24/71: DSJC125.5
+  - Nodes: 125
+  - Edges: 3891
+  - Known colors: ?
+  - Reduced nodes: 65 (48.0% reduction)
+  - Reduced edges: 1374 (64.7% reduction)
+  - Reduction time: 0.03 seconds
+  - Coloring time: 3.17 seconds
+  - Colors required: 23
+  - Total execution time: 3.21 seconds
+
+Graph 25/71: mulsol.i.1.col
+  - Nodes: 138
+  - Edges: 3925
+  - Known colors: 49
+  - Reduced nodes: 136 (1.4% reduction)
+  - Reduced edges: 3797 (3.3% reduction)
+  - Reduction time: 0.01 seconds
+  - Coloring time: 8.05 seconds
+  - Colors required: 49
+  - Total execution time: 8.07 seconds
+
+Graph 26/71: le450_5d
+  - Nodes: 450
+  - Edges: 9757
+  - Known colors: 5
+  - Reduced nodes: 193 (57.1% reduction)
+  - Reduced edges: 2085 (78.6% reduction)
+  - Reduction time: 0.04 seconds
+  - Coloring time: 10.42 seconds
+  - Colors required: 11
+  - Total execution time: 10.47 seconds
+
+Graph 27/71: school1_nsh
+  - Nodes: 352
+  - Edges: 14612
+  - Known colors: ?
+  - Reduced nodes: 223 (36.6% reduction)
+  - Reduced edges: 7969 (45.5% reduction)
+  - Reduction time: 0.09 seconds
+  - Coloring time: 173.21 seconds
+  - Colors required: 30
+  - Total execution time: 173.31 seconds
+
+Graph 28/71: mulsol.i.3.col
+  - Nodes: 174
+  - Edges: 3916
+  - Known colors: 31
+  - Reduced nodes: 172 (1.1% reduction)
+  - Reduced edges: 3765 (3.9% reduction)
+  - Reduction time: 0.01 seconds
+  - Coloring time: 18.41 seconds
+  - Colors required: 31
+  - Total execution time: 18.42 seconds
+
+Graph 29/71: school1
+  - Nodes: 385
+  - Edges: 19095
+  - Known colors: ?
+  - Reduced nodes: 209 (45.7% reduction)
+  - Reduced edges: 7359 (61.5% reduction)
+  - Reduction time: 0.12 seconds
+  - Coloring time: 172.69 seconds
+  - Colors required: 31
+  - Total execution time: 172.83 seconds
+
+Graph 30/71: myciel6
+  - Nodes: 95
+  - Edges: 755
+  - Known colors: 7
+  - Reduced nodes: 45 (52.6% reduction)
+  - Reduced edges: 225 (70.2% reduction)
+  - Reduction time: 0.00 seconds
+  - Coloring time: 0.04 seconds
+  - Colors required: 7
+  - Total execution time: 0.05 seconds
+
+Graph 31/71: myciel7
+  - Nodes: 191
+  - Edges: 2360
+  - Known colors: 8
+  - Reduced nodes: 92 (51.8% reduction)
+  - Reduced edges: 694 (70.6% reduction)
+  - Reduction time: 0.01 seconds
+  - Coloring time: 0.56 seconds
+  - Colors required: 8
+  - Total execution time: 0.57 seconds
+
+Graph 32/71: mulsol.i.2.col
+  - Nodes: 173
+  - Edges: 3885
+  - Known colors: 31
+  - Reduced nodes: 171 (1.2% reduction)
+  - Reduced edges: 3735 (3.9% reduction)
+  - Reduction time: 0.01 seconds
+  - Coloring time: 18.08 seconds
+  - Colors required: 31
+  - Total execution time: 18.10 seconds
+
+Graph 33/71: le450_5c
+  - Nodes: 450
+  - Edges: 9803
+  - Known colors: 5
+  - Reduced nodes: 203 (54.9% reduction)
+  - Reduced edges: 2301 (76.5% reduction)
+  - Reduction time: 0.04 seconds
+  - Coloring time: 30.58 seconds
+  - Colors required: 11
+  - Total execution time: 30.63 seconds
+
+Graph 34/71: queen15_15
+  - Nodes: 225
+  - Edges: 5180
+  - Known colors: ?
+  - Reduced nodes: 111 (50.7% reduction)
+  - Reduced edges: 2161 (58.3% reduction)
+  - Reduction time: 0.04 seconds
+  - Coloring time: 27.03 seconds
+  - Colors required: 21
+  - Total execution time: 27.07 seconds
+
+Graph 35/71: myciel3
+  - Nodes: 11
+  - Edges: 20
+  - Known colors: 4
+  - Reduced nodes: 5 (54.5% reduction)
+  - Reduced edges: 8 (60.0% reduction)
+  - Reduction time: 0.00 seconds
+  - Coloring time: 0.00 seconds
+  - Colors required: 4
+  - Total execution time: 0.00 seconds
+
+Graph 36/71: DSJR500.1c
+  - Nodes: 500
+  - Edges: 121275
+  - Known colors: ?
+  - Reduced nodes: 472 (5.6% reduction)
+  - Reduced edges: 107933 (11.0% reduction)
+  - Reduction time: 0.52 seconds
+  - Coloring time: 10.74 seconds
+  - Colors required: 105
+  - Total execution time: 11.37 seconds
+
+Graph 37/71: miles500
+  - Nodes: 128
+  - Edges: 1170
+  - Known colors: 20
+  - Reduced nodes: 58 (54.7% reduction)
+  - Reduced edges: 706 (39.7% reduction)
+  - Reduction time: 0.01 seconds
+  - Coloring time: 5.95 seconds
+  - Colors required: 22
+  - Total execution time: 5.97 seconds
+
+Graph 38/71: le450_5b
+  - Nodes: 450
+  - Edges: 5734
+  - Known colors: 5
+  - Reduced nodes: 212 (52.9% reduction)
+  - Reduced edges: 1954 (65.9% reduction)
+  - Reduction time: 0.02 seconds
+  - Coloring time: 20.21 seconds
+  - Colors required: 11
+  - Total execution time: 20.24 seconds
+
+Graph 39/71: queen8_8
+  - Nodes: 64
+  - Edges: 728
+  - Known colors: 9
+  - Reduced nodes: 31 (51.6% reduction)
+  - Reduced edges: 280 (61.5% reduction)
+  - Reduction time: 0.00 seconds
+  - Coloring time: 0.52 seconds
+  - Colors required: 12
+  - Total execution time: 0.52 seconds
+
+Graph 40/71: mulsol.i.5.col
+  - Nodes: 176
+  - Edges: 3973
+  - Known colors: 31
+  - Reduced nodes: 174 (1.1% reduction)
+  - Reduced edges: 3820 (3.9% reduction)
+  - Reduction time: 0.01 seconds
+  - Coloring time: 17.00 seconds
+  - Colors required: 31
+  - Total execution time: 17.01 seconds
+
+Graph 41/71: DSJC125.1
+  - Nodes: 125
+  - Edges: 736
+  - Known colors: ?
+  - Reduced nodes: 59 (52.8% reduction)
+  - Reduced edges: 271 (63.2% reduction)
+  - Reduction time: 0.00 seconds
+  - Coloring time: 5.49 seconds
+  - Colors required: 6
+  - Total execution time: 5.49 seconds
+
+Graph 42/71: queen8_12
+  - Nodes: 96
+  - Edges: 1368
+  - Known colors: 12
+  - Reduced nodes: 48 (50.0% reduction)
+  - Reduced edges: 539 (60.6% reduction)
+  - Reduction time: 0.01 seconds
+  - Coloring time: 6.12 seconds
+  - Colors required: 14
+  - Total execution time: 6.13 seconds
+
+Graph 43/71: mulsol.i.4.col
+  - Nodes: 175
+  - Edges: 3946
+  - Known colors: 31
+  - Reduced nodes: 173 (1.1% reduction)
+  - Reduced edges: 3794 (3.9% reduction)
+  - Reduction time: 0.01 seconds
+  - Coloring time: 19.73 seconds
+  - Colors required: 31
+  - Total execution time: 19.75 seconds
+
+Graph 44/71: le450_5a
+  - Nodes: 450
+  - Edges: 5714
+  - Known colors: 5
+  - Reduced nodes: 218 (51.6% reduction)
+  - Reduced edges: 2012 (64.8% reduction)
+  - Reduction time: 0.02 seconds
+  - Coloring time: 20.18 seconds
+  - Colors required: 11
+  - Total execution time: 20.20 seconds
+
+Graph 45/71: queen6_6
+  - Nodes: 36
+  - Edges: 290
+  - Known colors: 7
+  - Reduced nodes: 17 (52.8% reduction)
+  - Reduced edges: 104 (64.1% reduction)
+  - Reduction time: 0.00 seconds
+  - Coloring time: 0.04 seconds
+  - Colors required: 9
+  - Total execution time: 0.04 seconds
+
+Graph 46/71: huck
+  - Nodes: 74
+  - Edges: 301
+  - Known colors: 11
+  - Reduced nodes: 37 (50.0% reduction)
+  - Reduced edges: 192 (36.2% reduction)
+  - Reduction time: 0.00 seconds
+  - Coloring time: 7.14 seconds
+  - Colors required: 11
+  - Total execution time: 7.14 seconds
+
+Graph 47/71: le450_15c
+  - Nodes: 450
+  - Edges: 16680
+  - Known colors: 15
+  - Reduced nodes: 219 (51.3% reduction)
+  - Reduced edges: 5862 (64.9% reduction)
+  - Reduction time: 0.12 seconds
+  - Coloring time: 43.29 seconds
+  - Colors required: 26
+  - Total execution time: 43.43 seconds
+
+Graph 48/71: david
+  - Nodes: 87
+  - Edges: 406
+  - Known colors: 11
+  - Reduced nodes: 41 (52.9% reduction)
+  - Reduced edges: 261 (35.7% reduction)
+  - Reduction time: 0.00 seconds
+  - Coloring time: 4.17 seconds
+  - Colors required: 11
+  - Total execution time: 4.17 seconds
+
+Graph 49/71: le450_15b
+  - Nodes: 450
+  - Edges: 8169
+  - Known colors: 15
+  - Reduced nodes: 224 (50.2% reduction)
+  - Reduced edges: 3556 (56.5% reduction)
+  - Reduction time: 0.04 seconds
+  - Coloring time: 59.23 seconds
+  - Colors required: 18
+  - Total execution time: 59.28 seconds
+
+Graph 50/71: queen12_12
+  - Nodes: 144
+  - Edges: 2596
+  - Known colors: ?
+  - Reduced nodes: 70 (51.4% reduction)
+  - Reduced edges: 1032 (60.2% reduction)
+  - Reduction time: 0.02 seconds
+  - Coloring time: 13.90 seconds
+  - Colors required: 17
+  - Total execution time: 13.92 seconds
+
+Graph 51/71: anna
+  - Nodes: 138
+  - Edges: 493
+  - Known colors: 11
+  - Reduced nodes: 57 (58.7% reduction)
+  - Reduced edges: 299 (39.4% reduction)
+  - Reduction time: 0.00 seconds
+  - Coloring time: 5.50 seconds
+  - Colors required: 12
+  - Total execution time: 5.51 seconds
+
+Graph 52/71: DSJC250.1
+  - Nodes: 250
+  - Edges: 3218
+  - Known colors: ?
+  - Reduced nodes: 106 (57.6% reduction)
+  - Reduced edges: 970 (69.9% reduction)
+  - Reduction time: 0.01 seconds
+  - Coloring time: 12.77 seconds
+  - Colors required: 11
+  - Total execution time: 12.79 seconds
+
+Graph 53/71: miles1000
+  - Nodes: 128
+  - Edges: 3216
+  - Known colors: 42
+  - Reduced nodes: 102 (20.3% reduction)
+  - Reduced edges: 2759 (14.2% reduction)
+  - Reduction time: 0.02 seconds
+  - Coloring time: 17.56 seconds
+  - Colors required: 43
+  - Total execution time: 17.58 seconds
+
+Graph 54/71: le450_15a
+  - Nodes: 450
+  - Edges: 8168
+  - Known colors: 15
+  - Reduced nodes: 214 (52.4% reduction)
+  - Reduced edges: 3426 (58.1% reduction)
+  - Reduction time: 0.04 seconds
+  - Coloring time: 36.52 seconds
+  - Colors required: 20
+  - Total execution time: 36.58 seconds
+
+Graph 55/71: queen10_10
+  - Nodes: 100
+  - Edges: 1470
+  - Known colors: ?
+  - Reduced nodes: 46 (54.0% reduction)
+  - Reduced edges: 535 (63.6% reduction)
+  - Reduction time: 0.01 seconds
+  - Coloring time: 3.05 seconds
+  - Colors required: 14
+  - Total execution time: 3.07 seconds
+
+Graph 56/71: le450_15d
+  - Nodes: 450
+  - Edges: 16750
+  - Known colors: 15
+  - Reduced nodes: 223 (50.4% reduction)
+  - Reduced edges: 6095 (63.6% reduction)
+  - Reduction time: 0.12 seconds
+  - Coloring time: 42.50 seconds
+  - Colors required: 26
+  - Total execution time: 42.63 seconds
+
+Graph 57/71: DSJC250.5
+  - Nodes: 250
+  - Edges: 15668
+  - Known colors: ?
+  - Reduced nodes: 174 (30.4% reduction)
+  - Reduced edges: 8388 (46.5% reduction)
+  - Reduction time: 0.11 seconds
+  - Coloring time: 53.51 seconds
+  - Colors required: 37
+  - Total execution time: 53.64 seconds
+
+Graph 58/71: DSJC125.9
+  - Nodes: 125
+  - Edges: 6961
+  - Known colors: ?
+  - Reduced nodes: 120 (4.0% reduction)
+  - Reduced edges: 6457 (7.2% reduction)
+  - Reduction time: 0.02 seconds
+  - Coloring time: 0.65 seconds
+  - Colors required: 52
+  - Total execution time: 0.68 seconds
+
+Graph 59/71: miles250
+  - Nodes: 125
+  - Edges: 387
+  - Known colors: 8
+  - Reduced nodes: 58 (53.6% reduction)
+  - Reduced edges: 184 (52.5% reduction)
+  - Reduction time: 0.00 seconds
+  - Coloring time: 10.75 seconds
+  - Colors required: 8
+  - Total execution time: 10.75 seconds
+
+Graph 60/71: DSJC1000.9
+  - Nodes: 1000
+  - Edges: 449449
+  - Known colors: ?
+  - Reduced nodes: 980 (2.0% reduction)
+  - Reduced edges: 432421 (3.8% reduction)
+  - Reduction time: 1.86 seconds
+  - Coloring time: 96.77 seconds
+  - Colors required: 266
+  - Total execution time: 99.11 seconds
+
+Graph 61/71: jean
+  - Nodes: 77
+  - Edges: 254
+  - Known colors: 10
+  - Reduced nodes: 31 (59.7% reduction)
+  - Reduced edges: 157 (38.2% reduction)
+  - Reduction time: 0.03 seconds
+  - Coloring time: 1.62 seconds
+  - Colors required: 10
+  - Total execution time: 1.66 seconds
+
+Graph 62/71: le450_25b
+  - Nodes: 450
+  - Edges: 8263
+  - Known colors: 25
+  - Reduced nodes: 213 (52.7% reduction)
+  - Reduced edges: 4294 (48.0% reduction)
+  - Reduction time: 0.06 seconds
+  - Coloring time: 62.75 seconds
+  - Colors required: 27
+  - Total execution time: 62.83 seconds
+
+Graph 63/71: le450_25c
+  - Nodes: 450
+  - Edges: 17343
+  - Known colors: 25
+  - Reduced nodes: 255 (43.3% reduction)
+  - Reduced edges: 8357 (51.8% reduction)
+  - Reduction time: 0.14 seconds
+  - Coloring time: 67.92 seconds
+  - Colors required: 33
+  - Total execution time: 68.08 seconds
+
+Graph 64/71: miles750
+  - Nodes: 128
+  - Edges: 2113
+  - Known colors: 31
+  - Reduced nodes: 78 (39.1% reduction)
+  - Reduced edges: 1490 (29.5% reduction)
+  - Reduction time: 0.02 seconds
+  - Coloring time: 11.04 seconds
+  - Colors required: 33
+  - Total execution time: 11.06 seconds
+
+Graph 65/71: le450_25a
+  - Nodes: 450
+  - Edges: 8260
+  - Known colors: 25
+  - Reduced nodes: 212 (52.9% reduction)
+  - Reduced edges: 4384 (46.9% reduction)
+  - Reduction time: 0.06 seconds
+  - Coloring time: 57.94 seconds
+  - Colors required: 26
+  - Total execution time: 58.00 seconds
+
+Graph 66/71: latin_square_10
+  - Nodes: 900
+  - Edges: 307350
+  - Known colors: ?
+  - Reduced nodes: 802 (10.9% reduction)
+  - Reduced edges: 246528 (19.8% reduction)
+  - Reduction time: 1.60 seconds
+  - Coloring time: 158.22 seconds
+  - Colors required: 118
+  - Total execution time: 160.14 seconds
+
+Graph 67/71: DSJC500.5
+  - Nodes: 500
+  - Edges: 62624
+  - Known colors: ?
+  - Reduced nodes: 406 (18.8% reduction)
+  - Reduced edges: 43522 (30.5% reduction)
+  - Reduction time: 0.40 seconds
+  - Coloring time: 1365.31 seconds
+  - Colors required: 59
+  - Total execution time: 1365.78 seconds
+
+Graph 68/71: queen16_16
+  - Nodes: 256
+  - Edges: 6320
+  - Known colors: ?
+  - Reduced nodes: 128 (50.0% reduction)
+  - Reduced edges: 2685 (57.5% reduction)
+  - Reduction time: 0.05 seconds
+  - Coloring time: 31.33 seconds
+  - Colors required: 21
+  - Total execution time: 31.39 seconds
+
+Graph 69/71: le450_25d
+  - Nodes: 450
+  - Edges: 17425
+  - Known colors: 25
+  - Reduced nodes: 238 (47.1% reduction)
+  - Reduced edges: 7695 (55.8% reduction)
+  - Reduction time: 0.20 seconds
+  - Coloring time: 130.80 seconds
+  - Colors required: 31
+  - Total execution time: 131.02 seconds
+
+Graph 70/71: miles1500
+  - Nodes: 128
+  - Edges: 5198
+  - Known colors: 73
+  - Reduced nodes: 120 (6.2% reduction)
+  - Reduced edges: 5018 (3.5% reduction)
+  - Reduction time: 0.10 seconds
+  - Coloring time: 9.87 seconds
+  - Colors required: 73
+  - Total execution time: 9.99 seconds
+
+Graph 71/71: queen14_14
+  - Nodes: 196
+  - Edges: 4186
+  - Known colors: ?
+  - Reduced nodes: 95 (51.5% reduction)
+  - Reduced edges: 1674 (60.0% reduction)
+  - Reduction time: 0.13 seconds
+  - Coloring time: 34.61 seconds
+  - Colors required: 20
+  - Total execution time: 34.75 seconds
+
