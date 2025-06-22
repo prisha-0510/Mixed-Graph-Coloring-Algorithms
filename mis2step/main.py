@@ -12,6 +12,7 @@ output_file = '/Users/prishajain/Desktop/MTP/mis2step/output.txt'
 names_file = '/Users/prishajain/Desktop/MTP/mis2step/graph_names.pkl'
 colors_file = '/Users/prishajain/Desktop/MTP/mis2step/graph_colors.pkl'
 
+
 graphs,names,colors = load_graphs_from_file(graphs_file,names_file,colors_file)
 hidden_dim = 16
 num_layers = 20

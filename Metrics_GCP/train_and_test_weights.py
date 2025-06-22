@@ -11,6 +11,7 @@ from sklearn.model_selection import train_test_split
 import networkx as nx
 from contextlib import contextmanager
 
+
 # Set base directory to the current directory
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 

@@ -3,6 +3,7 @@ def k_reduction(graph, k):
     Iteratively remove vertices with degree < k until all remaining vertices have degree ≥ k.
     
     Parameters:
+    
     -----------
     graph : networkx.Graph
         The input graph to be reduced

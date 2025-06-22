@@ -13,6 +13,7 @@ def load_data(filepath):
     with open(filepath, 'rb') as f:
         raw_data = pickle.load(f)
 
+
     processed_data = []
     for graph_result in raw_data:
         original_graph = graph_result.get('original_graph')

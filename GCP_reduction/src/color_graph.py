@@ -7,6 +7,7 @@ def rlf(graph):
     Parameters:
         graph (networkx.Graph): A NetworkX graph to be colored.
 
+
     Returns:
         tuple: (color_count, coloring) where:
             - color_count (int): The number of colors required to color the graph.

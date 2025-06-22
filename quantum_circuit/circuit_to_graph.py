@@ -14,6 +14,7 @@ import networkx as nx
 from collections import defaultdict
 
 
+
 class QASMParser:
     def __init__(self, qasm_file):
         """Initialize the parser with a QASM file."""
