@@ -13,6 +13,7 @@ class GraphReducer:
         self.original_nodes = len(graph.nodes())
         self.original_edges = len(graph.edges())
         
+        
         # Target is to reduce nodes by 50% from original
         self.target_nodes = self.original_nodes * 0.7
         

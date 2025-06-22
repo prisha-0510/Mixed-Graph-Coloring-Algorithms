@@ -15,6 +15,7 @@ def rlf(graph):
     Returns:
         int: The number of colors required to color the graph.
     """
+    
     # Make a copy of the input graph to avoid modifying the original
     working_graph = graph.copy()
     color_count = 0  # Number of colors used
